@@ -1,0 +1,8334 @@
+AA1: P49
+
+
+Checkout queue: 
+P50, P51, P16, P54, P56, P57, P20, P61, P62, P21, P65, 
+
+Room1: P67, D3
+Room2: P25, D2
+Room3: P70, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 2: P69, 
+Priority 0: P27, P28, P29, P30, P36, P37, P38, P41, P43, P45, P47, P48, P52, P53, P55, P58, P59, P60, P63, P64, P66, P68, 
+-----------------------------------------------------------------------
+
+Total patients served: 32
+Average wait: 3.84375 seconds
+
+Total time for resources: 
+N2: 47 seconds
+N1: 46 seconds
+
+D2: 67 seconds
+D3: 68 seconds
+D1: 0 seconds
+
+AA1: 2 seconds
+
+Room1: 59 seconds
+Room2: 58 seconds
+Room3: 56 seconds
+Room4: 55 seconds
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N2
+Room2: available
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N2
+Room2: P2, N1
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, N1
+Room3: available
+Room4: available
+
+D2: available
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P3, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P4, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, N2
+Room4: P4, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P5, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P2, D2
+Room3: P3, D3
+Room4: P4, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P6, 
+Priority 0: P5, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+P2, 
+
+Room1: P6, N2
+Room2: available
+Room3: P3, D3
+Room4: P4, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P7, 
+Priority 0: P5, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+
+
+Room1: P6, N2
+Room2: P7, N1
+Room3: P3, D3
+Room4: P4, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P5, P8, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+P3, 
+
+Room1: P6, D3
+Room2: P7, N1
+Room3: available
+Room4: P4, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P9, 
+Priority 0: P5, P8, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+P4, 
+
+Room1: P6, D3
+Room2: P7, D2
+Room3: P10, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P9, 
+Priority 0: P5, P8, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+P4, 
+
+Room1: P6, D3
+Room2: P7, D2
+Room3: P10, N2
+Room4: P11, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P9, 
+Priority 0: P5, P8, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+P6, 
+
+Room1: available
+Room2: P7, D2
+Room3: P10, D3
+Room4: P11, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P9, 
+Priority 0: P5, P8, P12, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+P6, P7, 
+
+Room1: P9, N2
+Room2: available
+Room3: P10, D3
+Room4: P11, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P5, P8, P12, P13, 
+-----------------------------------------------------------------------
+
+AA1: P6
+
+
+Checkout queue: 
+P7, 
+
+Room1: P9, N2
+Room2: P5, N1
+Room3: P10, D3
+Room4: P11, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P8, P12, P13, P14, 
+-----------------------------------------------------------------------
+
+AA1: P6
+
+
+Checkout queue: 
+P7, P10, 
+
+Room1: P9, D3
+Room2: P5, N1
+Room3: available
+Room4: P11, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P8, P12, P13, P14, P15, 
+-----------------------------------------------------------------------
+
+AA1: P7
+
+
+Checkout queue: 
+P10, P11, 
+
+Room1: P9, D3
+Room2: P5, D2
+Room3: P8, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P12, P13, P14, P15, P16, 
+-----------------------------------------------------------------------
+
+AA1: P7
+
+
+Checkout queue: 
+P10, P11, 
+
+Room1: P9, D3
+Room2: P5, D2
+Room3: P8, N2
+Room4: P17, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P12, P13, P14, P15, P16, 
+-----------------------------------------------------------------------
+
+AA1: P10
+
+
+Checkout queue: 
+P11, P9, 
+
+Room1: available
+Room2: P5, D2
+Room3: P8, D3
+Room4: P17, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P12, P13, P14, P15, P16, P18, 
+-----------------------------------------------------------------------
+
+AA1: P10
+
+
+Checkout queue: 
+P11, P9, P5, 
+
+Room1: P12, N2
+Room2: available
+Room3: P8, D3
+Room4: P17, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P13, P14, P15, P16, P18, P19, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+P9, P5, 
+
+Room1: P12, N2
+Room2: P13, N1
+Room3: P8, D3
+Room4: P17, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P14, P15, P16, P18, P19, P20, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+P9, P5, P8, 
+
+Room1: P12, D3
+Room2: P13, N1
+Room3: available
+Room4: P17, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P21, 
+Priority 0: P14, P15, P16, P18, P19, P20, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P5, P8, P17, 
+
+Room1: P12, D3
+Room2: P13, D2
+Room3: P21, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P14, P15, P16, P18, P19, P20, P22, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P5, P8, P17, 
+
+Room1: P12, D3
+Room2: P13, D2
+Room3: P21, N2
+Room4: P14, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P15, P16, P18, P19, P20, P22, P23, 
+-----------------------------------------------------------------------
+
+AA1: P5
+
+
+Checkout queue: 
+P8, P17, P12, 
+
+Room1: available
+Room2: P13, D2
+Room3: P21, D3
+Room4: P14, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P15, P16, P18, P19, P20, P22, P23, P24, 
+-----------------------------------------------------------------------
+
+AA1: P5
+
+
+Checkout queue: 
+P8, P17, P12, P13, 
+
+Room1: P15, N2
+Room2: available
+Room3: P21, D3
+Room4: P14, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P16, P18, P19, P20, P22, P23, P24, P25, 
+-----------------------------------------------------------------------
+
+AA1: P8
+
+
+Checkout queue: 
+P17, P12, P13, 
+
+Room1: P15, N2
+Room2: P26, N1
+Room3: P21, D3
+Room4: P14, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P16, P18, P19, P20, P22, P23, P24, P25, 
+-----------------------------------------------------------------------
+
+AA1: P8
+
+
+Checkout queue: 
+P17, P12, P13, P21, 
+
+Room1: P15, D3
+Room2: P26, N1
+Room3: available
+Room4: P14, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P16, P18, P19, P20, P22, P23, P24, P25, P27, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+P12, P13, P21, P14, 
+
+Room1: P15, D3
+Room2: P26, D2
+Room3: P16, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P18, P19, P20, P22, P23, P24, P25, P27, P28, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+P12, P13, P21, P14, 
+
+Room1: P15, D3
+Room2: P26, D2
+Room3: P16, N2
+Room4: P18, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P19, P20, P22, P23, P24, P25, P27, P28, P29, 
+-----------------------------------------------------------------------
+
+AA1: P12
+
+
+Checkout queue: 
+P13, P21, P14, P15, 
+
+Room1: available
+Room2: P26, D2
+Room3: P16, D3
+Room4: P18, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P30, 
+Priority 0: P19, P20, P22, P23, P24, P25, P27, P28, P29, 
+-----------------------------------------------------------------------
+
+AA1: P12
+
+
+Checkout queue: 
+P13, P21, P14, P15, P26, 
+
+Room1: P31, N2
+Room2: available
+Room3: P16, D3
+Room4: P18, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P30, 
+Priority 0: P19, P20, P22, P23, P24, P25, P27, P28, P29, 
+-----------------------------------------------------------------------
+
+AA1: P13
+
+
+Checkout queue: 
+P21, P14, P15, P26, 
+
+Room1: P31, N2
+Room2: P32, N1
+Room3: P16, D3
+Room4: P18, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P30, 
+Priority 0: P19, P20, P22, P23, P24, P25, P27, P28, P29, 
+-----------------------------------------------------------------------
+
+AA1: P13
+
+
+Checkout queue: 
+P21, P14, P15, P26, P16, 
+
+Room1: P31, D3
+Room2: P32, N1
+Room3: available
+Room4: P18, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P33, 
+Priority 1: P30, 
+Priority 0: P19, P20, P22, P23, P24, P25, P27, P28, P29, 
+-----------------------------------------------------------------------
+
+AA1: P21
+
+
+Checkout queue: 
+P14, P15, P26, P16, P18, 
+
+Room1: P31, D3
+Room2: P32, D2
+Room3: P33, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P30, 
+Priority 0: P19, P20, P22, P23, P24, P25, P27, P28, P29, P34, 
+-----------------------------------------------------------------------
+
+AA1: P21
+
+
+Checkout queue: 
+P14, P15, P26, P16, P18, 
+
+Room1: P31, D3
+Room2: P32, D2
+Room3: P33, N2
+Room4: P30, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P19, P20, P22, P23, P24, P25, P27, P28, P29, P34, P35, 
+-----------------------------------------------------------------------
+
+AA1: P14
+
+
+Checkout queue: 
+P15, P26, P16, P18, P31, 
+
+Room1: available
+Room2: P32, D2
+Room3: P33, D3
+Room4: P30, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P36, 
+Priority 0: P19, P20, P22, P23, P24, P25, P27, P28, P29, P34, P35, 
+-----------------------------------------------------------------------
+
+AA1: P14
+
+
+Checkout queue: 
+P15, P26, P16, P18, P31, P32, 
+
+Room1: P36, N2
+Room2: available
+Room3: P33, D3
+Room4: P30, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P19, P20, P22, P23, P24, P25, P27, P28, P29, P34, P35, P37, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+P26, P16, P18, P31, P32, 
+
+Room1: P36, N2
+Room2: P19, N1
+Room3: P33, D3
+Room4: P30, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P20, P22, P23, P24, P25, P27, P28, P29, P34, P35, P37, P38, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+P26, P16, P18, P31, P32, P33, 
+
+Room1: P36, D3
+Room2: P19, N1
+Room3: available
+Room4: P30, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P20, P22, P23, P24, P25, P27, P28, P29, P34, P35, P37, P38, P39, 
+-----------------------------------------------------------------------
+
+AA1: P26
+
+
+Checkout queue: 
+P16, P18, P31, P32, P33, P30, 
+
+Room1: P36, D3
+Room2: P19, D2
+Room3: P20, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P22, P23, P24, P25, P27, P28, P29, P34, P35, P37, P38, P39, P40, 
+-----------------------------------------------------------------------
+
+AA1: P26
+
+
+Checkout queue: 
+P16, P18, P31, P32, P33, P30, 
+
+Room1: P36, D3
+Room2: P19, D2
+Room3: P20, N2
+Room4: P41, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P22, P23, P24, P25, P27, P28, P29, P34, P35, P37, P38, P39, P40, 
+-----------------------------------------------------------------------
+
+AA1: P16
+
+
+Checkout queue: 
+P18, P31, P32, P33, P30, P36, 
+
+Room1: available
+Room2: P19, D2
+Room3: P20, D3
+Room4: P41, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P42, 
+Priority 0: P22, P23, P24, P25, P27, P28, P29, P34, P35, P37, P38, P39, P40, 
+-----------------------------------------------------------------------
+
+AA1: P16
+
+
+Checkout queue: 
+P18, P31, P32, P33, P30, P36, P19, 
+
+Room1: P42, N2
+Room2: available
+Room3: P20, D3
+Room4: P41, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P22, P23, P24, P25, P27, P28, P29, P34, P35, P37, P38, P39, P40, P43, 
+-----------------------------------------------------------------------
+
+AA1: P18
+
+
+Checkout queue: 
+P31, P32, P33, P30, P36, P19, 
+
+Room1: P42, N2
+Room2: P22, N1
+Room3: P20, D3
+Room4: P41, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P23, P24, P25, P27, P28, P29, P34, P35, P37, P38, P39, P40, P43, P44, 
+-----------------------------------------------------------------------
+
+AA1: P18
+
+
+Checkout queue: 
+P31, P32, P33, P30, P36, P19, P20, 
+
+Room1: P42, D3
+Room2: P22, N1
+Room3: available
+Room4: P41, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P23, P24, P25, P27, P28, P29, P34, P35, P37, P38, P39, P40, P43, P44, P45, 
+-----------------------------------------------------------------------
+
+AA1: P31
+
+
+Checkout queue: 
+P32, P33, P30, P36, P19, P20, P41, 
+
+Room1: P42, D3
+Room2: P22, D2
+Room3: P23, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P24, P25, P27, P28, P29, P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, 
+-----------------------------------------------------------------------
+
+AA1: P31
+
+
+Checkout queue: 
+P32, P33, P30, P36, P19, P20, P41, 
+
+Room1: P42, D3
+Room2: P22, D2
+Room3: P23, N2
+Room4: P24, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P25, P27, P28, P29, P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, 
+-----------------------------------------------------------------------
+
+AA1: P32
+
+
+Checkout queue: 
+P33, P30, P36, P19, P20, P41, P42, 
+
+Room1: available
+Room2: P22, D2
+Room3: P23, D3
+Room4: P24, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P25, P27, P28, P29, P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, 
+-----------------------------------------------------------------------
+
+AA1: P32
+
+
+Checkout queue: 
+P33, P30, P36, P19, P20, P41, P42, P22, 
+
+Room1: P25, N2
+Room2: available
+Room3: P23, D3
+Room4: P24, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P27, P28, P29, P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, 
+-----------------------------------------------------------------------
+
+AA1: P33
+
+
+Checkout queue: 
+P30, P36, P19, P20, P41, P42, P22, 
+
+Room1: P25, N2
+Room2: P27, N1
+Room3: P23, D3
+Room4: P24, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P28, P29, P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, 
+-----------------------------------------------------------------------
+
+AA1: P33
+
+
+Checkout queue: 
+P30, P36, P19, P20, P41, P42, P22, P23, 
+
+Room1: P25, D3
+Room2: P27, N1
+Room3: available
+Room4: P24, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P28, P29, P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, 
+-----------------------------------------------------------------------
+
+AA1: P30
+
+
+Checkout queue: 
+P36, P19, P20, P41, P42, P22, P23, P24, 
+
+Room1: P25, D3
+Room2: P27, D2
+Room3: P28, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P29, P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, 
+-----------------------------------------------------------------------
+
+AA1: P30
+
+
+Checkout queue: 
+P36, P19, P20, P41, P42, P22, P23, P24, 
+
+Room1: P25, D3
+Room2: P27, D2
+Room3: P28, N2
+Room4: P53, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P29, P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, 
+-----------------------------------------------------------------------
+
+AA1: P36
+
+
+Checkout queue: 
+P19, P20, P41, P42, P22, P23, P24, P25, 
+
+Room1: available
+Room2: P27, D2
+Room3: P28, D3
+Room4: P53, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P29, P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, 
+-----------------------------------------------------------------------
+
+AA1: P36
+
+
+Checkout queue: 
+P19, P20, P41, P42, P22, P23, P24, P25, P27, 
+
+Room1: P55, N2
+Room2: available
+Room3: P28, D3
+Room4: P53, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P29, P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, 
+-----------------------------------------------------------------------
+
+AA1: P19
+
+
+Checkout queue: 
+P20, P41, P42, P22, P23, P24, P25, P27, 
+
+Room1: P55, N2
+Room2: P29, N1
+Room3: P28, D3
+Room4: P53, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, 
+-----------------------------------------------------------------------
+
+AA1: P19
+
+
+Checkout queue: 
+P20, P41, P42, P22, P23, P24, P25, P27, P28, 
+
+Room1: P55, D3
+Room2: P29, N1
+Room3: available
+Room4: P53, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P57, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, 
+-----------------------------------------------------------------------
+
+AA1: P20
+
+
+Checkout queue: 
+P41, P42, P22, P23, P24, P25, P27, P28, P53, 
+
+Room1: P55, D3
+Room2: P29, D2
+Room3: P58, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 2: P57, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, 
+-----------------------------------------------------------------------
+
+AA1: P20
+
+
+Checkout queue: 
+P41, P42, P22, P23, P24, P25, P27, P28, P53, 
+
+Room1: P55, D3
+Room2: P29, D2
+Room3: P58, N2
+Room4: P59, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 2: P57, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, 
+-----------------------------------------------------------------------
+
+AA1: P41
+
+
+Checkout queue: 
+P42, P22, P23, P24, P25, P27, P28, P53, P55, 
+
+Room1: available
+Room2: P29, D2
+Room3: P58, D3
+Room4: P59, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P60, 
+Priority 2: P57, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, 
+-----------------------------------------------------------------------
+
+AA1: P41
+
+
+Checkout queue: 
+P42, P22, P23, P24, P25, P27, P28, P53, P55, P29, 
+
+Room1: P60, N2
+Room2: available
+Room3: P58, D3
+Room4: P59, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 2: P57, P61, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, 
+-----------------------------------------------------------------------
+
+AA1: P42
+
+
+Checkout queue: 
+P22, P23, P24, P25, P27, P28, P53, P55, P29, 
+
+Room1: P60, N2
+Room2: P57, N1
+Room3: P58, D3
+Room4: P59, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 2: P61, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, P62, 
+-----------------------------------------------------------------------
+
+AA1: P42
+
+
+Checkout queue: 
+P22, P23, P24, P25, P27, P28, P53, P55, P29, P58, 
+
+Room1: P60, D3
+Room2: P57, N1
+Room3: available
+Room4: P59, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P63, 
+Priority 2: P61, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, P62, 
+-----------------------------------------------------------------------
+
+AA1: P22
+
+
+Checkout queue: 
+P23, P24, P25, P27, P28, P53, P55, P29, P58, P59, 
+
+Room1: P60, D3
+Room2: P57, D2
+Room3: P63, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 2: P61, 
+Priority 1: P64, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, P62, 
+-----------------------------------------------------------------------
+
+AA1: P22
+
+
+Checkout queue: 
+P23, P24, P25, P27, P28, P53, P55, P29, P58, P59, 
+
+Room1: P60, D3
+Room2: P57, D2
+Room3: P63, N2
+Room4: P61, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P64, P65, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, P62, 
+-----------------------------------------------------------------------
+
+AA1: P23
+
+
+Checkout queue: 
+P24, P25, P27, P28, P53, P55, P29, P58, P59, P60, 
+
+Room1: available
+Room2: P57, D2
+Room3: P63, D3
+Room4: P61, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P64, P65, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, P62, P66, 
+-----------------------------------------------------------------------
+
+AA1: P23
+
+
+Checkout queue: 
+P24, P25, P27, P28, P53, P55, P29, P58, P59, P60, P57, 
+
+Room1: P67, N2
+Room2: available
+Room3: P63, D3
+Room4: P61, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P64, P65, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, P62, P66, 
+-----------------------------------------------------------------------
+
+AA1: P24
+
+
+Checkout queue: 
+P25, P27, P28, P53, P55, P29, P58, P59, P60, P57, 
+
+Room1: P67, N2
+Room2: P64, N1
+Room3: P63, D3
+Room4: P61, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P65, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, P62, P66, P68, 
+-----------------------------------------------------------------------
+
+AA1: P24
+
+
+Checkout queue: 
+P25, P27, P28, P53, P55, P29, P58, P59, P60, P57, P63, 
+
+Room1: P67, D3
+Room2: P64, N1
+Room3: available
+Room4: P61, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P65, 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, P62, P66, P68, P69, 
+-----------------------------------------------------------------------
+
+AA1: P25
+
+
+Checkout queue: 
+P27, P28, P53, P55, P29, P58, P59, P60, P57, P63, P61, 
+
+Room1: P67, D3
+Room2: P64, D2
+Room3: P65, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P34, P35, P37, P38, P39, P40, P43, P44, P45, P46, P47, P48, P49, P50, P51, P52, P54, P56, P62, P66, P68, P69, P70, 
+-----------------------------------------------------------------------
+
+Total patients served: 32
+Average wait: 6.15625 seconds
+
+Total time for resources: 
+N2: 47 seconds
+N1: 46 seconds
+
+D2: 67 seconds
+D3: 68 seconds
+D1: 0 seconds
+
+AA1: 2 seconds
+
+Room1: 59 seconds
+Room2: 58 seconds
+Room3: 56 seconds
+Room4: 55 seconds
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N2
+Room2: available
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N2
+Room2: P2, N1
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, N1
+Room3: available
+Room4: available
+
+D2: available
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P3, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P4, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P3, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P4, N2
+Room4: P5, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P3, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P2, D2
+Room3: P4, D3
+Room4: P5, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P3, P6, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+P2, 
+
+Room1: P3, N2
+Room2: available
+Room3: P4, D3
+Room4: P5, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P6, P7, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+
+
+Room1: P3, N2
+Room2: P8, N1
+Room3: P4, D3
+Room4: P5, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P7, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+P4, 
+
+Room1: P3, D3
+Room2: P8, N1
+Room3: available
+Room4: P5, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P6, P7, P9, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+P5, 
+
+Room1: P3, D3
+Room2: P8, D2
+Room3: P6, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P7, P9, P10, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+P5, 
+
+Room1: P3, D3
+Room2: P8, D2
+Room3: P6, N2
+Room4: P11, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P7, P9, P10, 
+-----------------------------------------------------------------------
+
+AA1: P5
+
+
+Checkout queue: 
+P3, 
+
+Room1: available
+Room2: P8, D2
+Room3: P6, D3
+Room4: P11, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P12, 
+Priority 0: P7, P9, P10, 
+-----------------------------------------------------------------------
+
+AA1: P5
+
+
+Checkout queue: 
+P3, P8, 
+
+Room1: P12, N2
+Room2: available
+Room3: P6, D3
+Room4: P11, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P7, P9, P10, P13, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+P8, 
+
+Room1: P12, N2
+Room2: P14, N1
+Room3: P6, D3
+Room4: P11, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P7, P9, P10, P13, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+P8, P6, 
+
+Room1: P12, D3
+Room2: P14, N1
+Room3: available
+Room4: P11, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P15, 
+Priority 0: P7, P9, P10, P13, 
+-----------------------------------------------------------------------
+
+AA1: P8
+
+
+Checkout queue: 
+P6, P11, 
+
+Room1: P12, D3
+Room2: P14, D2
+Room3: P15, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P7, P9, P10, P13, P16, 
+-----------------------------------------------------------------------
+
+AA1: P8
+
+
+Checkout queue: 
+P6, P11, 
+
+Room1: P12, D3
+Room2: P14, D2
+Room3: P15, N2
+Room4: P7, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P9, P10, P13, P16, P17, 
+-----------------------------------------------------------------------
+
+AA1: P6
+
+
+Checkout queue: 
+P11, P12, 
+
+Room1: available
+Room2: P14, D2
+Room3: P15, D3
+Room4: P7, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P9, P10, P13, P16, P17, P18, 
+-----------------------------------------------------------------------
+
+AA1: P6
+
+
+Checkout queue: 
+P11, P12, P14, 
+
+Room1: P19, N2
+Room2: available
+Room3: P15, D3
+Room4: P7, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P9, P10, P13, P16, P17, P18, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+P12, P14, 
+
+Room1: P19, N2
+Room2: P9, N1
+Room3: P15, D3
+Room4: P7, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P10, P13, P16, P17, P18, P20, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+P12, P14, P15, 
+
+Room1: P19, D3
+Room2: P9, N1
+Room3: available
+Room4: P7, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P10, P13, P16, P17, P18, P20, P21, 
+-----------------------------------------------------------------------
+
+AA1: P12
+
+
+Checkout queue: 
+P14, P15, P7, 
+
+Room1: P19, D3
+Room2: P9, D2
+Room3: P22, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P10, P13, P16, P17, P18, P20, P21, 
+-----------------------------------------------------------------------
+
+AA1: P12
+
+
+Checkout queue: 
+P14, P15, P7, 
+
+Room1: P19, D3
+Room2: P9, D2
+Room3: P22, N2
+Room4: P23, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P10, P13, P16, P17, P18, P20, P21, 
+-----------------------------------------------------------------------
+
+AA1: P14
+
+
+Checkout queue: 
+P15, P7, P19, 
+
+Room1: available
+Room2: P9, D2
+Room3: P22, D3
+Room4: P23, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P24, 
+Priority 0: P10, P13, P16, P17, P18, P20, P21, 
+-----------------------------------------------------------------------
+
+AA1: P14
+
+
+Checkout queue: 
+P15, P7, P19, P9, 
+
+Room1: P24, N2
+Room2: available
+Room3: P22, D3
+Room4: P23, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P10, P13, P16, P17, P18, P20, P21, P25, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+P7, P19, P9, 
+
+Room1: P24, N2
+Room2: P26, N1
+Room3: P22, D3
+Room4: P23, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P10, P13, P16, P17, P18, P20, P21, P25, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+P7, P19, P9, P22, 
+
+Room1: P24, D3
+Room2: P26, N1
+Room3: available
+Room4: P23, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P10, P13, P16, P17, P18, P20, P21, P25, P27, 
+-----------------------------------------------------------------------
+
+AA1: P7
+
+
+Checkout queue: 
+P19, P9, P22, P23, 
+
+Room1: P24, D3
+Room2: P26, D2
+Room3: P10, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P13, P16, P17, P18, P20, P21, P25, P27, P28, 
+-----------------------------------------------------------------------
+
+AA1: P7
+
+
+Checkout queue: 
+P19, P9, P22, P23, 
+
+Room1: P24, D3
+Room2: P26, D2
+Room3: P10, N2
+Room4: P13, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P16, P17, P18, P20, P21, P25, P27, P28, P29, 
+-----------------------------------------------------------------------
+
+AA1: P19
+
+
+Checkout queue: 
+P9, P22, P23, P24, 
+
+Room1: available
+Room2: P26, D2
+Room3: P10, D3
+Room4: P13, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P16, P17, P18, P20, P21, P25, P27, P28, P29, P30, 
+-----------------------------------------------------------------------
+
+AA1: P19
+
+
+Checkout queue: 
+P9, P22, P23, P24, P26, 
+
+Room1: P31, N2
+Room2: available
+Room3: P10, D3
+Room4: P13, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P16, P17, P18, P20, P21, P25, P27, P28, P29, P30, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P22, P23, P24, P26, 
+
+Room1: P31, N2
+Room2: P32, N1
+Room3: P10, D3
+Room4: P13, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P16, P17, P18, P20, P21, P25, P27, P28, P29, P30, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P22, P23, P24, P26, P10, 
+
+Room1: P31, D3
+Room2: P32, N1
+Room3: available
+Room4: P13, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P16, P17, P18, P20, P21, P25, P27, P28, P29, P30, P33, 
+-----------------------------------------------------------------------
+
+AA1: P22
+
+
+Checkout queue: 
+P23, P24, P26, P10, P13, 
+
+Room1: P31, D3
+Room2: P32, D2
+Room3: P16, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P17, P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, 
+-----------------------------------------------------------------------
+
+AA1: P22
+
+
+Checkout queue: 
+P23, P24, P26, P10, P13, 
+
+Room1: P31, D3
+Room2: P32, D2
+Room3: P16, N2
+Room4: P35, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P17, P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, 
+-----------------------------------------------------------------------
+
+AA1: P23
+
+
+Checkout queue: 
+P24, P26, P10, P13, P31, 
+
+Room1: available
+Room2: P32, D2
+Room3: P16, D3
+Room4: P35, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P36, 
+Priority 0: P17, P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, 
+-----------------------------------------------------------------------
+
+AA1: P23
+
+
+Checkout queue: 
+P24, P26, P10, P13, P31, P32, 
+
+Room1: P36, N2
+Room2: available
+Room3: P16, D3
+Room4: P35, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P17, P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, 
+-----------------------------------------------------------------------
+
+AA1: P24
+
+
+Checkout queue: 
+P26, P10, P13, P31, P32, 
+
+Room1: P36, N2
+Room2: P38, N1
+Room3: P16, D3
+Room4: P35, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P17, P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, 
+-----------------------------------------------------------------------
+
+AA1: P24
+
+
+Checkout queue: 
+P26, P10, P13, P31, P32, P16, 
+
+Room1: P36, D3
+Room2: P38, N1
+Room3: available
+Room4: P35, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P17, P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, 
+-----------------------------------------------------------------------
+
+AA1: P26
+
+
+Checkout queue: 
+P10, P13, P31, P32, P16, P35, 
+
+Room1: P36, D3
+Room2: P38, D2
+Room3: P40, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P17, P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, 
+-----------------------------------------------------------------------
+
+AA1: P26
+
+
+Checkout queue: 
+P10, P13, P31, P32, P16, P35, 
+
+Room1: P36, D3
+Room2: P38, D2
+Room3: P40, N2
+Room4: P17, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, 
+-----------------------------------------------------------------------
+
+AA1: P10
+
+
+Checkout queue: 
+P13, P31, P32, P16, P35, P36, 
+
+Room1: available
+Room2: P38, D2
+Room3: P40, D3
+Room4: P17, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P42, 
+Priority 0: P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, 
+-----------------------------------------------------------------------
+
+AA1: P10
+
+
+Checkout queue: 
+P13, P31, P32, P16, P35, P36, P38, 
+
+Room1: P42, N2
+Room2: available
+Room3: P40, D3
+Room4: P17, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 2: P43, 
+Priority 0: P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, 
+-----------------------------------------------------------------------
+
+AA1: P13
+
+
+Checkout queue: 
+P31, P32, P16, P35, P36, P38, 
+
+Room1: P42, N2
+Room2: P43, N1
+Room3: P40, D3
+Room4: P17, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, 
+-----------------------------------------------------------------------
+
+AA1: P13
+
+
+Checkout queue: 
+P31, P32, P16, P35, P36, P38, P40, 
+
+Room1: P42, D3
+Room2: P43, N1
+Room3: available
+Room4: P17, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P18, P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, 
+-----------------------------------------------------------------------
+
+AA1: P31
+
+
+Checkout queue: 
+P32, P16, P35, P36, P38, P40, P17, 
+
+Room1: P42, D3
+Room2: P43, D2
+Room3: P18, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, 
+-----------------------------------------------------------------------
+
+AA1: P31
+
+
+Checkout queue: 
+P32, P16, P35, P36, P38, P40, P17, 
+
+Room1: P42, D3
+Room2: P43, D2
+Room3: P18, N2
+Room4: P47, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, 
+-----------------------------------------------------------------------
+
+AA1: P32
+
+
+Checkout queue: 
+P16, P35, P36, P38, P40, P17, P42, 
+
+Room1: available
+Room2: P43, D2
+Room3: P18, D3
+Room4: P47, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P48, 
+Priority 0: P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, 
+-----------------------------------------------------------------------
+
+AA1: P32
+
+
+Checkout queue: 
+P16, P35, P36, P38, P40, P17, P42, P43, 
+
+Room1: P48, N2
+Room2: available
+Room3: P18, D3
+Room4: P47, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P20, P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, 
+-----------------------------------------------------------------------
+
+AA1: P16
+
+
+Checkout queue: 
+P35, P36, P38, P40, P17, P42, P43, 
+
+Room1: P48, N2
+Room2: P20, N1
+Room3: P18, D3
+Room4: P47, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, 
+-----------------------------------------------------------------------
+
+AA1: P16
+
+
+Checkout queue: 
+P35, P36, P38, P40, P17, P42, P43, P18, 
+
+Room1: P48, D3
+Room2: P20, N1
+Room3: available
+Room4: P47, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P51, 
+Priority 0: P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, 
+-----------------------------------------------------------------------
+
+AA1: P35
+
+
+Checkout queue: 
+P36, P38, P40, P17, P42, P43, P18, P47, 
+
+Room1: P48, D3
+Room2: P20, D2
+Room3: P51, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, 
+-----------------------------------------------------------------------
+
+AA1: P35
+
+
+Checkout queue: 
+P36, P38, P40, P17, P42, P43, P18, P47, 
+
+Room1: P48, D3
+Room2: P20, D2
+Room3: P51, N2
+Room4: P53, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, 
+-----------------------------------------------------------------------
+
+AA1: P36
+
+
+Checkout queue: 
+P38, P40, P17, P42, P43, P18, P47, P48, 
+
+Room1: available
+Room2: P20, D2
+Room3: P51, D3
+Room4: P53, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, 
+-----------------------------------------------------------------------
+
+AA1: P36
+
+
+Checkout queue: 
+P38, P40, P17, P42, P43, P18, P47, P48, P20, 
+
+Room1: P55, N2
+Room2: available
+Room3: P51, D3
+Room4: P53, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, 
+-----------------------------------------------------------------------
+
+AA1: P38
+
+
+Checkout queue: 
+P40, P17, P42, P43, P18, P47, P48, P20, 
+
+Room1: P55, N2
+Room2: P56, N1
+Room3: P51, D3
+Room4: P53, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, 
+-----------------------------------------------------------------------
+
+AA1: P38
+
+
+Checkout queue: 
+P40, P17, P42, P43, P18, P47, P48, P20, P51, 
+
+Room1: P55, D3
+Room2: P56, N1
+Room3: available
+Room4: P53, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, 
+-----------------------------------------------------------------------
+
+AA1: P40
+
+
+Checkout queue: 
+P17, P42, P43, P18, P47, P48, P20, P51, P53, 
+
+Room1: P55, D3
+Room2: P56, D2
+Room3: P58, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, 
+-----------------------------------------------------------------------
+
+AA1: P40
+
+
+Checkout queue: 
+P17, P42, P43, P18, P47, P48, P20, P51, P53, 
+
+Room1: P55, D3
+Room2: P56, D2
+Room3: P58, N2
+Room4: P59, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+P42, P43, P18, P47, P48, P20, P51, P53, P55, 
+
+Room1: available
+Room2: P56, D2
+Room3: P58, D3
+Room4: P59, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P21, P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, P60, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+P42, P43, P18, P47, P48, P20, P51, P53, P55, P56, 
+
+Room1: P21, N2
+Room2: available
+Room3: P58, D3
+Room4: P59, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, P60, P61, 
+-----------------------------------------------------------------------
+
+AA1: P42
+
+
+Checkout queue: 
+P43, P18, P47, P48, P20, P51, P53, P55, P56, 
+
+Room1: P21, N2
+Room2: P62, N1
+Room3: P58, D3
+Room4: P59, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, P60, P61, 
+-----------------------------------------------------------------------
+
+AA1: P42
+
+
+Checkout queue: 
+P43, P18, P47, P48, P20, P51, P53, P55, P56, P58, 
+
+Room1: P21, D3
+Room2: P62, N1
+Room3: available
+Room4: P59, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P25, P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, P60, P61, P63, 
+-----------------------------------------------------------------------
+
+AA1: P43
+
+
+Checkout queue: 
+P18, P47, P48, P20, P51, P53, P55, P56, P58, P59, 
+
+Room1: P21, D3
+Room2: P62, D2
+Room3: P25, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P27, P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, P60, P61, P63, P64, 
+-----------------------------------------------------------------------
+
+AA1: P43
+
+
+Checkout queue: 
+P18, P47, P48, P20, P51, P53, P55, P56, P58, P59, 
+
+Room1: P21, D3
+Room2: P62, D2
+Room3: P25, N2
+Room4: P27, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, P60, P61, P63, P64, P65, 
+-----------------------------------------------------------------------
+
+AA1: P18
+
+
+Checkout queue: 
+P47, P48, P20, P51, P53, P55, P56, P58, P59, P21, 
+
+Room1: available
+Room2: P62, D2
+Room3: P25, D3
+Room4: P27, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P66, 
+Priority 0: P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, P60, P61, P63, P64, P65, 
+-----------------------------------------------------------------------
+
+AA1: P18
+
+
+Checkout queue: 
+P47, P48, P20, P51, P53, P55, P56, P58, P59, P21, P62, 
+
+Room1: P67, N2
+Room2: available
+Room3: P25, D3
+Room4: P27, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 2: P66, 
+Priority 0: P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, P60, P61, P63, P64, P65, 
+-----------------------------------------------------------------------
+
+AA1: P47
+
+
+Checkout queue: 
+P48, P20, P51, P53, P55, P56, P58, P59, P21, P62, 
+
+Room1: P67, N2
+Room2: P66, N1
+Room3: P25, D3
+Room4: P27, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P68, 
+Priority 0: P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, P60, P61, P63, P64, P65, 
+-----------------------------------------------------------------------
+
+AA1: P47
+
+
+Checkout queue: 
+P48, P20, P51, P53, P55, P56, P58, P59, P21, P62, P25, 
+
+Room1: P67, D3
+Room2: P66, N1
+Room3: available
+Room4: P27, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P68, P69, 
+Priority 0: P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, P60, P61, P63, P64, P65, 
+-----------------------------------------------------------------------
+
+AA1: P48
+
+
+Checkout queue: 
+P20, P51, P53, P55, P56, P58, P59, P21, P62, P25, P27, 
+
+Room1: P67, D3
+Room2: P66, D2
+Room3: P68, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P69, 
+Priority 0: P28, P29, P30, P33, P34, P37, P39, P41, P44, P45, P46, P49, P50, P52, P54, P57, P60, P61, P63, P64, P65, P70, 
+-----------------------------------------------------------------------
+
+Total patients served: 32
+Average wait: 4.34375 seconds
+
+Total time for resources: 
+N2: 47 seconds
+N1: 46 seconds
+
+D2: 67 seconds
+D3: 68 seconds
+D1: 0 seconds
+
+AA1: 2 seconds
+
+Room1: 59 seconds
+Room2: 58 seconds
+Room3: 56 seconds
+Room4: 55 seconds
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N2
+Room2: available
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N2
+Room2: P2, N1
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, N1
+Room3: available
+Room4: available
+
+D2: available
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P3, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P4, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, N2
+Room4: P5, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P4, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P2, D2
+Room3: P3, D3
+Room4: P5, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P6, 
+Priority 0: P4, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+P2, 
+
+Room1: P6, N2
+Room2: available
+Room3: P3, D3
+Room4: P5, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P4, P7, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+
+
+Room1: P6, N2
+Room2: P8, N1
+Room3: P3, D3
+Room4: P5, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P4, P7, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+P3, 
+
+Room1: P6, D3
+Room2: P8, N1
+Room3: available
+Room4: P5, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P9, 
+Priority 0: P4, P7, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+P5, 
+
+Room1: P6, D3
+Room2: P8, D2
+Room3: P9, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P4, P7, P10, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+P5, 
+
+Room1: P6, D3
+Room2: P8, D2
+Room3: P9, N2
+Room4: P4, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P7, P10, P11, 
+-----------------------------------------------------------------------
+
+AA1: P5
+
+
+Checkout queue: 
+P6, 
+
+Room1: available
+Room2: P8, D2
+Room3: P9, D3
+Room4: P4, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P7, P10, P11, P12, 
+-----------------------------------------------------------------------
+
+AA1: P5
+
+
+Checkout queue: 
+P6, P8, 
+
+Room1: P13, N2
+Room2: available
+Room3: P9, D3
+Room4: P4, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P7, P10, P11, P12, 
+-----------------------------------------------------------------------
+
+AA1: P6
+
+
+Checkout queue: 
+P8, 
+
+Room1: P13, N2
+Room2: P7, N1
+Room3: P9, D3
+Room4: P4, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P10, P11, P12, P14, 
+-----------------------------------------------------------------------
+
+AA1: P6
+
+
+Checkout queue: 
+P8, P9, 
+
+Room1: P13, D3
+Room2: P7, N1
+Room3: available
+Room4: P4, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P15, 
+Priority 0: P10, P11, P12, P14, 
+-----------------------------------------------------------------------
+
+AA1: P8
+
+
+Checkout queue: 
+P9, P4, 
+
+Room1: P13, D3
+Room2: P7, D2
+Room3: P15, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P10, P11, P12, P14, P16, 
+-----------------------------------------------------------------------
+
+AA1: P8
+
+
+Checkout queue: 
+P9, P4, 
+
+Room1: P13, D3
+Room2: P7, D2
+Room3: P15, N2
+Room4: P17, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P10, P11, P12, P14, P16, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P4, P13, 
+
+Room1: available
+Room2: P7, D2
+Room3: P15, D3
+Room4: P17, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P18, 
+Priority 0: P10, P11, P12, P14, P16, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P4, P13, P7, 
+
+Room1: P18, N2
+Room2: available
+Room3: P15, D3
+Room4: P17, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 3: P19, 
+Priority 0: P10, P11, P12, P14, P16, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+P13, P7, 
+
+Room1: P18, N2
+Room2: P19, N1
+Room3: P15, D3
+Room4: P17, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P10, P11, P12, P14, P16, P20, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+P13, P7, P15, 
+
+Room1: P18, D3
+Room2: P19, N1
+Room3: available
+Room4: P17, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P21, 
+Priority 0: P10, P11, P12, P14, P16, P20, 
+-----------------------------------------------------------------------
+
+AA1: P13
+
+
+Checkout queue: 
+P7, P15, P17, 
+
+Room1: P18, D3
+Room2: P19, D2
+Room3: P22, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 2: P21, 
+Priority 0: P10, P11, P12, P14, P16, P20, 
+-----------------------------------------------------------------------
+
+AA1: P13
+
+
+Checkout queue: 
+P7, P15, P17, 
+
+Room1: P18, D3
+Room2: P19, D2
+Room3: P22, N2
+Room4: P21, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 2: P23, 
+Priority 0: P10, P11, P12, P14, P16, P20, 
+-----------------------------------------------------------------------
+
+AA1: P7
+
+
+Checkout queue: 
+P15, P17, P18, 
+
+Room1: available
+Room2: P19, D2
+Room3: P22, D3
+Room4: P21, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P23, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, 
+-----------------------------------------------------------------------
+
+AA1: P7
+
+
+Checkout queue: 
+P15, P17, P18, P19, 
+
+Room1: P25, N2
+Room2: available
+Room3: P22, D3
+Room4: P21, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 2: P23, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+P17, P18, P19, 
+
+Room1: P25, N2
+Room2: P26, N1
+Room3: P22, D3
+Room4: P21, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 2: P23, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+P17, P18, P19, P22, 
+
+Room1: P25, D3
+Room2: P26, N1
+Room3: available
+Room4: P21, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P23, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, P27, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+P18, P19, P22, P21, 
+
+Room1: P25, D3
+Room2: P26, D2
+Room3: P28, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 2: P23, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, P27, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+P18, P19, P22, P21, 
+
+Room1: P25, D3
+Room2: P26, D2
+Room3: P28, N2
+Room4: P29, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 2: P23, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, P27, 
+-----------------------------------------------------------------------
+
+AA1: P18
+
+
+Checkout queue: 
+P19, P22, P21, P25, 
+
+Room1: available
+Room2: P26, D2
+Room3: P28, D3
+Room4: P29, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P23, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, P27, P30, 
+-----------------------------------------------------------------------
+
+AA1: P18
+
+
+Checkout queue: 
+P19, P22, P21, P25, P26, 
+
+Room1: P23, N2
+Room2: available
+Room3: P28, D3
+Room4: P29, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P31, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, P27, P30, 
+-----------------------------------------------------------------------
+
+AA1: P19
+
+
+Checkout queue: 
+P22, P21, P25, P26, 
+
+Room1: P23, N2
+Room2: P31, N1
+Room3: P28, D3
+Room4: P29, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P32, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, P27, P30, 
+-----------------------------------------------------------------------
+
+AA1: P19
+
+
+Checkout queue: 
+P22, P21, P25, P26, P28, 
+
+Room1: P23, D3
+Room2: P31, N1
+Room3: available
+Room4: P29, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P33, 
+Priority 1: P32, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, P27, P30, 
+-----------------------------------------------------------------------
+
+AA1: P22
+
+
+Checkout queue: 
+P21, P25, P26, P28, P29, 
+
+Room1: P23, D3
+Room2: P31, D2
+Room3: P33, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P32, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, P27, P30, P34, 
+-----------------------------------------------------------------------
+
+AA1: P22
+
+
+Checkout queue: 
+P21, P25, P26, P28, P29, 
+
+Room1: P23, D3
+Room2: P31, D2
+Room3: P33, N2
+Room4: P32, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, P27, P30, P34, P35, 
+-----------------------------------------------------------------------
+
+AA1: P21
+
+
+Checkout queue: 
+P25, P26, P28, P29, P23, 
+
+Room1: available
+Room2: P31, D2
+Room3: P33, D3
+Room4: P32, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P36, 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, P27, P30, P34, P35, 
+-----------------------------------------------------------------------
+
+AA1: P21
+
+
+Checkout queue: 
+P25, P26, P28, P29, P23, P31, 
+
+Room1: P36, N2
+Room2: available
+Room3: P33, D3
+Room4: P32, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P10, P11, P12, P14, P16, P20, P24, P27, P30, P34, P35, P37, 
+-----------------------------------------------------------------------
+
+AA1: P25
+
+
+Checkout queue: 
+P26, P28, P29, P23, P31, 
+
+Room1: P36, N2
+Room2: P10, N1
+Room3: P33, D3
+Room4: P32, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P11, P12, P14, P16, P20, P24, P27, P30, P34, P35, P37, P38, 
+-----------------------------------------------------------------------
+
+AA1: P25
+
+
+Checkout queue: 
+P26, P28, P29, P23, P31, P33, 
+
+Room1: P36, D3
+Room2: P10, N1
+Room3: available
+Room4: P32, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P11, P12, P14, P16, P20, P24, P27, P30, P34, P35, P37, P38, P39, 
+-----------------------------------------------------------------------
+
+AA1: P26
+
+
+Checkout queue: 
+P28, P29, P23, P31, P33, P32, 
+
+Room1: P36, D3
+Room2: P10, D2
+Room3: P40, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P11, P12, P14, P16, P20, P24, P27, P30, P34, P35, P37, P38, P39, 
+-----------------------------------------------------------------------
+
+AA1: P26
+
+
+Checkout queue: 
+P28, P29, P23, P31, P33, P32, 
+
+Room1: P36, D3
+Room2: P10, D2
+Room3: P40, N2
+Room4: P11, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P12, P14, P16, P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, 
+-----------------------------------------------------------------------
+
+AA1: P28
+
+
+Checkout queue: 
+P29, P23, P31, P33, P32, P36, 
+
+Room1: available
+Room2: P10, D2
+Room3: P40, D3
+Room4: P11, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P42, 
+Priority 0: P12, P14, P16, P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, 
+-----------------------------------------------------------------------
+
+AA1: P28
+
+
+Checkout queue: 
+P29, P23, P31, P33, P32, P36, P10, 
+
+Room1: P42, N2
+Room2: available
+Room3: P40, D3
+Room4: P11, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P12, P14, P16, P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, 
+-----------------------------------------------------------------------
+
+AA1: P29
+
+
+Checkout queue: 
+P23, P31, P33, P32, P36, P10, 
+
+Room1: P42, N2
+Room2: P44, N1
+Room3: P40, D3
+Room4: P11, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P12, P14, P16, P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, 
+-----------------------------------------------------------------------
+
+AA1: P29
+
+
+Checkout queue: 
+P23, P31, P33, P32, P36, P10, P40, 
+
+Room1: P42, D3
+Room2: P44, N1
+Room3: available
+Room4: P11, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P45, 
+Priority 0: P12, P14, P16, P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, 
+-----------------------------------------------------------------------
+
+AA1: P23
+
+
+Checkout queue: 
+P31, P33, P32, P36, P10, P40, P11, 
+
+Room1: P42, D3
+Room2: P44, D2
+Room3: P45, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P12, P14, P16, P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, 
+-----------------------------------------------------------------------
+
+AA1: P23
+
+
+Checkout queue: 
+P31, P33, P32, P36, P10, P40, P11, 
+
+Room1: P42, D3
+Room2: P44, D2
+Room3: P45, N2
+Room4: P12, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P14, P16, P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, 
+-----------------------------------------------------------------------
+
+AA1: P31
+
+
+Checkout queue: 
+P33, P32, P36, P10, P40, P11, P42, 
+
+Room1: available
+Room2: P44, D2
+Room3: P45, D3
+Room4: P12, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P14, P16, P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, 
+-----------------------------------------------------------------------
+
+AA1: P31
+
+
+Checkout queue: 
+P33, P32, P36, P10, P40, P11, P42, P44, 
+
+Room1: P14, N2
+Room2: available
+Room3: P45, D3
+Room4: P12, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P16, P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, 
+-----------------------------------------------------------------------
+
+AA1: P33
+
+
+Checkout queue: 
+P32, P36, P10, P40, P11, P42, P44, 
+
+Room1: P14, N2
+Room2: P16, N1
+Room3: P45, D3
+Room4: P12, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, 
+-----------------------------------------------------------------------
+
+AA1: P33
+
+
+Checkout queue: 
+P32, P36, P10, P40, P11, P42, P44, P45, 
+
+Room1: P14, D3
+Room2: P16, N1
+Room3: available
+Room4: P12, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P51, 
+Priority 0: P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, 
+-----------------------------------------------------------------------
+
+AA1: P32
+
+
+Checkout queue: 
+P36, P10, P40, P11, P42, P44, P45, P12, 
+
+Room1: P14, D3
+Room2: P16, D2
+Room3: P51, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P52, 
+Priority 0: P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, 
+-----------------------------------------------------------------------
+
+AA1: P32
+
+
+Checkout queue: 
+P36, P10, P40, P11, P42, P44, P45, P12, 
+
+Room1: P14, D3
+Room2: P16, D2
+Room3: P51, N2
+Room4: P52, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, 
+-----------------------------------------------------------------------
+
+AA1: P36
+
+
+Checkout queue: 
+P10, P40, P11, P42, P44, P45, P12, P14, 
+
+Room1: available
+Room2: P16, D2
+Room3: P51, D3
+Room4: P52, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P20, P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, 
+-----------------------------------------------------------------------
+
+AA1: P36
+
+
+Checkout queue: 
+P10, P40, P11, P42, P44, P45, P12, P14, P16, 
+
+Room1: P20, N2
+Room2: available
+Room3: P51, D3
+Room4: P52, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, 
+-----------------------------------------------------------------------
+
+AA1: P10
+
+
+Checkout queue: 
+P40, P11, P42, P44, P45, P12, P14, P16, 
+
+Room1: P20, N2
+Room2: P56, N1
+Room3: P51, D3
+Room4: P52, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, 
+-----------------------------------------------------------------------
+
+AA1: P10
+
+
+Checkout queue: 
+P40, P11, P42, P44, P45, P12, P14, P16, P51, 
+
+Room1: P20, D3
+Room2: P56, N1
+Room3: available
+Room4: P52, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P24, P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, 
+-----------------------------------------------------------------------
+
+AA1: P40
+
+
+Checkout queue: 
+P11, P42, P44, P45, P12, P14, P16, P51, P52, 
+
+Room1: P20, D3
+Room2: P56, D2
+Room3: P24, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, 
+-----------------------------------------------------------------------
+
+AA1: P40
+
+
+Checkout queue: 
+P11, P42, P44, P45, P12, P14, P16, P51, P52, 
+
+Room1: P20, D3
+Room2: P56, D2
+Room3: P24, N2
+Room4: P59, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+P42, P44, P45, P12, P14, P16, P51, P52, P20, 
+
+Room1: available
+Room2: P56, D2
+Room3: P24, D3
+Room4: P59, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P60, 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+P42, P44, P45, P12, P14, P16, P51, P52, P20, P56, 
+
+Room1: P60, N2
+Room2: available
+Room3: P24, D3
+Room4: P59, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, P61, 
+-----------------------------------------------------------------------
+
+AA1: P42
+
+
+Checkout queue: 
+P44, P45, P12, P14, P16, P51, P52, P20, P56, 
+
+Room1: P60, N2
+Room2: P62, N1
+Room3: P24, D3
+Room4: P59, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, P61, 
+-----------------------------------------------------------------------
+
+AA1: P42
+
+
+Checkout queue: 
+P44, P45, P12, P14, P16, P51, P52, P20, P56, P24, 
+
+Room1: P60, D3
+Room2: P62, N1
+Room3: available
+Room4: P59, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, P61, P63, 
+-----------------------------------------------------------------------
+
+AA1: P44
+
+
+Checkout queue: 
+P45, P12, P14, P16, P51, P52, P20, P56, P24, P59, 
+
+Room1: P60, D3
+Room2: P62, D2
+Room3: P64, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, P61, P63, 
+-----------------------------------------------------------------------
+
+AA1: P44
+
+
+Checkout queue: 
+P45, P12, P14, P16, P51, P52, P20, P56, P24, P59, 
+
+Room1: P60, D3
+Room2: P62, D2
+Room3: P64, N2
+Room4: P65, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, P61, P63, 
+-----------------------------------------------------------------------
+
+AA1: P45
+
+
+Checkout queue: 
+P12, P14, P16, P51, P52, P20, P56, P24, P59, P60, 
+
+Room1: available
+Room2: P62, D2
+Room3: P64, D3
+Room4: P65, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P66, 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, P61, P63, 
+-----------------------------------------------------------------------
+
+AA1: P45
+
+
+Checkout queue: 
+P12, P14, P16, P51, P52, P20, P56, P24, P59, P60, P62, 
+
+Room1: P66, N2
+Room2: available
+Room3: P64, D3
+Room4: P65, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, P61, P63, P67, 
+-----------------------------------------------------------------------
+
+AA1: P12
+
+
+Checkout queue: 
+P14, P16, P51, P52, P20, P56, P24, P59, P60, P62, 
+
+Room1: P66, N2
+Room2: P68, N1
+Room3: P64, D3
+Room4: P65, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, P61, P63, P67, 
+-----------------------------------------------------------------------
+
+AA1: P12
+
+
+Checkout queue: 
+P14, P16, P51, P52, P20, P56, P24, P59, P60, P62, P64, 
+
+Room1: P66, D3
+Room2: P68, N1
+Room3: available
+Room4: P65, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P69, 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, P61, P63, P67, 
+-----------------------------------------------------------------------
+
+AA1: P14
+
+
+Checkout queue: 
+P16, P51, P52, P20, P56, P24, P59, P60, P62, P64, P65, 
+
+Room1: P66, D3
+Room2: P68, D2
+Room3: P69, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P27, P30, P34, P35, P37, P38, P39, P41, P43, P46, P47, P48, P49, P50, P53, P54, P55, P57, P58, P61, P63, P67, P70, 
+-----------------------------------------------------------------------
+
+Total patients served: 32
+Average wait: 4.09375 seconds
+
+Total time for resources: 
+N2: 47 seconds
+N1: 46 seconds
+
+D2: 67 seconds
+D3: 68 seconds
+D1: 0 seconds
+
+AA1: 2 seconds
+
+Room1: 59 seconds
+Room2: 58 seconds
+Room3: 56 seconds
+Room4: 55 seconds
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N2
+Room2: available
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N2
+Room2: P2, N1
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, N1
+Room3: available
+Room4: available
+
+D2: available
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P3, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P4, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, N2
+Room4: P4, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P5, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P2, D2
+Room3: P3, D3
+Room4: P4, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P5, P6, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+P2, 
+
+Room1: P7, N2
+Room2: available
+Room3: P3, D3
+Room4: P4, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P5, P6, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+
+
+Room1: P7, N2
+Room2: P8, N1
+Room3: P3, D3
+Room4: P4, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P5, P6, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+P3, 
+
+Room1: P7, D3
+Room2: P8, N1
+Room3: available
+Room4: P4, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P9, 
+Priority 0: P5, P6, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+P4, 
+
+Room1: P7, D3
+Room2: P8, D2
+Room3: P9, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P5, P6, P10, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+P4, 
+
+Room1: P7, D3
+Room2: P8, D2
+Room3: P9, N2
+Room4: P5, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P10, P11, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+P7, 
+
+Room1: available
+Room2: P8, D2
+Room3: P9, D3
+Room4: P5, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P6, P10, P11, P12, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+P7, P8, 
+
+Room1: P13, N2
+Room2: available
+Room3: P9, D3
+Room4: P5, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P6, P10, P11, P12, 
+-----------------------------------------------------------------------
+
+AA1: P7
+
+
+Checkout queue: 
+P8, 
+
+Room1: P13, N2
+Room2: P14, N1
+Room3: P9, D3
+Room4: P5, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P10, P11, P12, 
+-----------------------------------------------------------------------
+
+AA1: P7
+
+
+Checkout queue: 
+P8, P9, 
+
+Room1: P13, D3
+Room2: P14, N1
+Room3: available
+Room4: P5, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P6, P10, P11, P12, P15, 
+-----------------------------------------------------------------------
+
+AA1: P8
+
+
+Checkout queue: 
+P9, P5, 
+
+Room1: P13, D3
+Room2: P14, D2
+Room3: P16, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P6, P10, P11, P12, P15, 
+-----------------------------------------------------------------------
+
+AA1: P8
+
+
+Checkout queue: 
+P9, P5, 
+
+Room1: P13, D3
+Room2: P14, D2
+Room3: P16, N2
+Room4: P6, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P10, P11, P12, P15, P17, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P5, P13, 
+
+Room1: available
+Room2: P14, D2
+Room3: P16, D3
+Room4: P6, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P18, 
+Priority 0: P10, P11, P12, P15, P17, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P5, P13, P14, 
+
+Room1: P18, N2
+Room2: available
+Room3: P16, D3
+Room4: P6, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P10, P11, P12, P15, P17, P19, 
+-----------------------------------------------------------------------
+
+AA1: P5
+
+
+Checkout queue: 
+P13, P14, 
+
+Room1: P18, N2
+Room2: P20, N1
+Room3: P16, D3
+Room4: P6, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P10, P11, P12, P15, P17, P19, 
+-----------------------------------------------------------------------
+
+AA1: P5
+
+
+Checkout queue: 
+P13, P14, P16, 
+
+Room1: P18, D3
+Room2: P20, N1
+Room3: available
+Room4: P6, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P21, 
+Priority 0: P10, P11, P12, P15, P17, P19, 
+-----------------------------------------------------------------------
+
+AA1: P13
+
+
+Checkout queue: 
+P14, P16, P6, 
+
+Room1: P18, D3
+Room2: P20, D2
+Room3: P22, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P21, 
+Priority 0: P10, P11, P12, P15, P17, P19, 
+-----------------------------------------------------------------------
+
+AA1: P13
+
+
+Checkout queue: 
+P14, P16, P6, 
+
+Room1: P18, D3
+Room2: P20, D2
+Room3: P22, N2
+Room4: P21, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P10, P11, P12, P15, P17, P19, P23, 
+-----------------------------------------------------------------------
+
+AA1: P14
+
+
+Checkout queue: 
+P16, P6, P18, 
+
+Room1: available
+Room2: P20, D2
+Room3: P22, D3
+Room4: P21, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P10, P11, P12, P15, P17, P19, P23, P24, 
+-----------------------------------------------------------------------
+
+AA1: P14
+
+
+Checkout queue: 
+P16, P6, P18, P20, 
+
+Room1: P10, N2
+Room2: available
+Room3: P22, D3
+Room4: P21, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P11, P12, P15, P17, P19, P23, P24, P25, 
+-----------------------------------------------------------------------
+
+AA1: P16
+
+
+Checkout queue: 
+P6, P18, P20, 
+
+Room1: P10, N2
+Room2: P11, N1
+Room3: P22, D3
+Room4: P21, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P12, P15, P17, P19, P23, P24, P25, P26, 
+-----------------------------------------------------------------------
+
+AA1: P16
+
+
+Checkout queue: 
+P6, P18, P20, P22, 
+
+Room1: P10, D3
+Room2: P11, N1
+Room3: available
+Room4: P21, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P27, 
+Priority 0: P12, P15, P17, P19, P23, P24, P25, P26, 
+-----------------------------------------------------------------------
+
+AA1: P6
+
+
+Checkout queue: 
+P18, P20, P22, P21, 
+
+Room1: P10, D3
+Room2: P11, D2
+Room3: P27, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P12, P15, P17, P19, P23, P24, P25, P26, P28, 
+-----------------------------------------------------------------------
+
+AA1: P6
+
+
+Checkout queue: 
+P18, P20, P22, P21, 
+
+Room1: P10, D3
+Room2: P11, D2
+Room3: P27, N2
+Room4: P12, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P15, P17, P19, P23, P24, P25, P26, P28, P29, 
+-----------------------------------------------------------------------
+
+AA1: P18
+
+
+Checkout queue: 
+P20, P22, P21, P10, 
+
+Room1: available
+Room2: P11, D2
+Room3: P27, D3
+Room4: P12, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P15, P17, P19, P23, P24, P25, P26, P28, P29, P30, 
+-----------------------------------------------------------------------
+
+AA1: P18
+
+
+Checkout queue: 
+P20, P22, P21, P10, P11, 
+
+Room1: P31, N2
+Room2: available
+Room3: P27, D3
+Room4: P12, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P15, P17, P19, P23, P24, P25, P26, P28, P29, P30, 
+-----------------------------------------------------------------------
+
+AA1: P20
+
+
+Checkout queue: 
+P22, P21, P10, P11, 
+
+Room1: P31, N2
+Room2: P32, N1
+Room3: P27, D3
+Room4: P12, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P15, P17, P19, P23, P24, P25, P26, P28, P29, P30, 
+-----------------------------------------------------------------------
+
+AA1: P20
+
+
+Checkout queue: 
+P22, P21, P10, P11, P27, 
+
+Room1: P31, D3
+Room2: P32, N1
+Room3: available
+Room4: P12, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P15, P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, 
+-----------------------------------------------------------------------
+
+AA1: P22
+
+
+Checkout queue: 
+P21, P10, P11, P27, P12, 
+
+Room1: P31, D3
+Room2: P32, D2
+Room3: P15, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, 
+-----------------------------------------------------------------------
+
+AA1: P22
+
+
+Checkout queue: 
+P21, P10, P11, P27, P12, 
+
+Room1: P31, D3
+Room2: P32, D2
+Room3: P15, N2
+Room4: P35, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, 
+-----------------------------------------------------------------------
+
+AA1: P21
+
+
+Checkout queue: 
+P10, P11, P27, P12, P31, 
+
+Room1: available
+Room2: P32, D2
+Room3: P15, D3
+Room4: P35, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, 
+-----------------------------------------------------------------------
+
+AA1: P21
+
+
+Checkout queue: 
+P10, P11, P27, P12, P31, P32, 
+
+Room1: P37, N2
+Room2: available
+Room3: P15, D3
+Room4: P35, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, 
+-----------------------------------------------------------------------
+
+AA1: P10
+
+
+Checkout queue: 
+P11, P27, P12, P31, P32, 
+
+Room1: P37, N2
+Room2: P38, N1
+Room3: P15, D3
+Room4: P35, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, 
+-----------------------------------------------------------------------
+
+AA1: P10
+
+
+Checkout queue: 
+P11, P27, P12, P31, P32, P15, 
+
+Room1: P37, D3
+Room2: P38, N1
+Room3: available
+Room4: P35, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P39, 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+P27, P12, P31, P32, P15, P35, 
+
+Room1: P37, D3
+Room2: P38, D2
+Room3: P39, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P40, 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+P27, P12, P31, P32, P15, P35, 
+
+Room1: P37, D3
+Room2: P38, D2
+Room3: P39, N2
+Room4: P40, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P41, 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, 
+-----------------------------------------------------------------------
+
+AA1: P27
+
+
+Checkout queue: 
+P12, P31, P32, P15, P35, P37, 
+
+Room1: available
+Room2: P38, D2
+Room3: P39, D3
+Room4: P40, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P41, 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, 
+-----------------------------------------------------------------------
+
+AA1: P27
+
+
+Checkout queue: 
+P12, P31, P32, P15, P35, P37, P38, 
+
+Room1: P43, N2
+Room2: available
+Room3: P39, D3
+Room4: P40, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P41, 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, 
+-----------------------------------------------------------------------
+
+AA1: P12
+
+
+Checkout queue: 
+P31, P32, P15, P35, P37, P38, 
+
+Room1: P43, N2
+Room2: P41, N1
+Room3: P39, D3
+Room4: P40, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, 
+-----------------------------------------------------------------------
+
+AA1: P12
+
+
+Checkout queue: 
+P31, P32, P15, P35, P37, P38, P39, 
+
+Room1: P43, D3
+Room2: P41, N1
+Room3: available
+Room4: P40, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P45, 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, 
+-----------------------------------------------------------------------
+
+AA1: P31
+
+
+Checkout queue: 
+P32, P15, P35, P37, P38, P39, P40, 
+
+Room1: P43, D3
+Room2: P41, D2
+Room3: P45, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P17, P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, 
+-----------------------------------------------------------------------
+
+AA1: P31
+
+
+Checkout queue: 
+P32, P15, P35, P37, P38, P39, P40, 
+
+Room1: P43, D3
+Room2: P41, D2
+Room3: P45, N2
+Room4: P17, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, 
+-----------------------------------------------------------------------
+
+AA1: P32
+
+
+Checkout queue: 
+P15, P35, P37, P38, P39, P40, P43, 
+
+Room1: available
+Room2: P41, D2
+Room3: P45, D3
+Room4: P17, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P19, P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, 
+-----------------------------------------------------------------------
+
+AA1: P32
+
+
+Checkout queue: 
+P15, P35, P37, P38, P39, P40, P43, P41, 
+
+Room1: P19, N2
+Room2: available
+Room3: P45, D3
+Room4: P17, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+P35, P37, P38, P39, P40, P43, P41, 
+
+Room1: P19, N2
+Room2: P50, N1
+Room3: P45, D3
+Room4: P17, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+P35, P37, P38, P39, P40, P43, P41, P45, 
+
+Room1: P19, D3
+Room2: P50, N1
+Room3: available
+Room4: P17, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P51, 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, 
+-----------------------------------------------------------------------
+
+AA1: P35
+
+
+Checkout queue: 
+P37, P38, P39, P40, P43, P41, P45, P17, 
+
+Room1: P19, D3
+Room2: P50, D2
+Room3: P51, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, 
+-----------------------------------------------------------------------
+
+AA1: P35
+
+
+Checkout queue: 
+P37, P38, P39, P40, P43, P41, P45, P17, 
+
+Room1: P19, D3
+Room2: P50, D2
+Room3: P51, N2
+Room4: P53, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, 
+-----------------------------------------------------------------------
+
+AA1: P37
+
+
+Checkout queue: 
+P38, P39, P40, P43, P41, P45, P17, P19, 
+
+Room1: available
+Room2: P50, D2
+Room3: P51, D3
+Room4: P53, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P54, 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, 
+-----------------------------------------------------------------------
+
+AA1: P37
+
+
+Checkout queue: 
+P38, P39, P40, P43, P41, P45, P17, P19, P50, 
+
+Room1: P55, N2
+Room2: available
+Room3: P51, D3
+Room4: P53, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P54, 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, 
+-----------------------------------------------------------------------
+
+AA1: P38
+
+
+Checkout queue: 
+P39, P40, P43, P41, P45, P17, P19, P50, 
+
+Room1: P55, N2
+Room2: P56, N1
+Room3: P51, D3
+Room4: P53, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P54, 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, 
+-----------------------------------------------------------------------
+
+AA1: P38
+
+
+Checkout queue: 
+P39, P40, P43, P41, P45, P17, P19, P50, P51, 
+
+Room1: P55, D3
+Room2: P56, N1
+Room3: available
+Room4: P53, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P54, P57, 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, 
+-----------------------------------------------------------------------
+
+AA1: P39
+
+
+Checkout queue: 
+P40, P43, P41, P45, P17, P19, P50, P51, P53, 
+
+Room1: P55, D3
+Room2: P56, D2
+Room3: P54, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P57, 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, 
+-----------------------------------------------------------------------
+
+AA1: P39
+
+
+Checkout queue: 
+P40, P43, P41, P45, P17, P19, P50, P51, P53, 
+
+Room1: P55, D3
+Room2: P56, D2
+Room3: P54, N2
+Room4: P59, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P57, 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, 
+-----------------------------------------------------------------------
+
+AA1: P40
+
+
+Checkout queue: 
+P43, P41, P45, P17, P19, P50, P51, P53, P55, 
+
+Room1: available
+Room2: P56, D2
+Room3: P54, D3
+Room4: P59, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P57, 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, P60, 
+-----------------------------------------------------------------------
+
+AA1: P40
+
+
+Checkout queue: 
+P43, P41, P45, P17, P19, P50, P51, P53, P55, P56, 
+
+Room1: P57, N2
+Room2: available
+Room3: P54, D3
+Room4: P59, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, P60, P61, 
+-----------------------------------------------------------------------
+
+AA1: P43
+
+
+Checkout queue: 
+P41, P45, P17, P19, P50, P51, P53, P55, P56, 
+
+Room1: P57, N2
+Room2: P62, N1
+Room3: P54, D3
+Room4: P59, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, P60, P61, 
+-----------------------------------------------------------------------
+
+AA1: P43
+
+
+Checkout queue: 
+P41, P45, P17, P19, P50, P51, P53, P55, P56, P54, 
+
+Room1: P57, D3
+Room2: P62, N1
+Room3: available
+Room4: P59, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P23, P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, P60, P61, P63, 
+-----------------------------------------------------------------------
+
+AA1: P41
+
+
+Checkout queue: 
+P45, P17, P19, P50, P51, P53, P55, P56, P54, P59, 
+
+Room1: P57, D3
+Room2: P62, D2
+Room3: P23, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P24, P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, P60, P61, P63, P64, 
+-----------------------------------------------------------------------
+
+AA1: P41
+
+
+Checkout queue: 
+P45, P17, P19, P50, P51, P53, P55, P56, P54, P59, 
+
+Room1: P57, D3
+Room2: P62, D2
+Room3: P23, N2
+Room4: P24, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, P60, P61, P63, P64, P65, 
+-----------------------------------------------------------------------
+
+AA1: P45
+
+
+Checkout queue: 
+P17, P19, P50, P51, P53, P55, P56, P54, P59, P57, 
+
+Room1: available
+Room2: P62, D2
+Room3: P23, D3
+Room4: P24, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P66, 
+Priority 0: P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, P60, P61, P63, P64, P65, 
+-----------------------------------------------------------------------
+
+AA1: P45
+
+
+Checkout queue: 
+P17, P19, P50, P51, P53, P55, P56, P54, P59, P57, P62, 
+
+Room1: P67, N2
+Room2: available
+Room3: P23, D3
+Room4: P24, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P66, 
+Priority 0: P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, P60, P61, P63, P64, P65, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+P19, P50, P51, P53, P55, P56, P54, P59, P57, P62, 
+
+Room1: P67, N2
+Room2: P68, N1
+Room3: P23, D3
+Room4: P24, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P66, 
+Priority 0: P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, P60, P61, P63, P64, P65, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+P19, P50, P51, P53, P55, P56, P54, P59, P57, P62, P23, 
+
+Room1: P67, D3
+Room2: P68, N1
+Room3: available
+Room4: P24, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P66, 
+Priority 0: P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, P60, P61, P63, P64, P65, P69, 
+-----------------------------------------------------------------------
+
+AA1: P19
+
+
+Checkout queue: 
+P50, P51, P53, P55, P56, P54, P59, P57, P62, P23, P24, 
+
+Room1: P67, D3
+Room2: P68, D2
+Room3: P66, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P70, 
+Priority 0: P25, P26, P28, P29, P30, P33, P34, P36, P42, P44, P46, P47, P48, P49, P52, P58, P60, P61, P63, P64, P65, P69, 
+-----------------------------------------------------------------------
+
+Total patients served: 32
+Average wait: 3.9375 seconds
+
+Total time for resources: 
+N2: 47 seconds
+N1: 46 seconds
+
+D2: 67 seconds
+D3: 68 seconds
+D1: 0 seconds
+
+AA1: 2 seconds
+
+Room1: 59 seconds
+Room2: 58 seconds
+Room3: 56 seconds
+Room4: 55 seconds
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N2
+Room2: available
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N2
+Room2: P2, N1
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, N1
+Room3: available
+Room4: available
+
+D2: available
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P3, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P4, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, N2
+Room4: P5, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P4, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P2, D2
+Room3: P3, D3
+Room4: P5, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P4, P6, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+P2, 
+
+Room1: P7, N2
+Room2: available
+Room3: P3, D3
+Room4: P5, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P4, P6, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+
+
+Room1: P7, N2
+Room2: P4, N1
+Room3: P3, D3
+Room4: P5, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P8, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+P3, 
+
+Room1: P7, D3
+Room2: P4, N1
+Room3: available
+Room4: P5, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P9, 
+Priority 0: P6, P8, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+P5, 
+
+Room1: P7, D3
+Room2: P4, D2
+Room3: P9, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P10, 
+Priority 0: P6, P8, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+P5, 
+
+Room1: P7, D3
+Room2: P4, D2
+Room3: P9, N2
+Room4: P11, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P10, 
+Priority 0: P6, P8, 
+-----------------------------------------------------------------------
+
+AA1: P5
+
+
+Checkout queue: 
+P7, 
+
+Room1: available
+Room2: P4, D2
+Room3: P9, D3
+Room4: P11, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P12, 
+Priority 1: P10, 
+Priority 0: P6, P8, 
+-----------------------------------------------------------------------
+
+AA1: P5
+
+
+Checkout queue: 
+P7, P4, 
+
+Room1: P12, N2
+Room2: available
+Room3: P9, D3
+Room4: P11, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P10, 
+Priority 0: P6, P8, P13, 
+-----------------------------------------------------------------------
+
+AA1: P7
+
+
+Checkout queue: 
+P4, 
+
+Room1: P12, N2
+Room2: P10, N1
+Room3: P9, D3
+Room4: P11, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, 
+-----------------------------------------------------------------------
+
+AA1: P7
+
+
+Checkout queue: 
+P4, P9, 
+
+Room1: P12, D3
+Room2: P10, N1
+Room3: available
+Room4: P11, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P15, 
+Priority 0: P6, P8, P13, P14, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+P9, P11, 
+
+Room1: P12, D3
+Room2: P10, D2
+Room3: P15, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 3: P16, 
+Priority 0: P6, P8, P13, P14, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+P9, P11, 
+
+Room1: P12, D3
+Room2: P10, D2
+Room3: P15, N2
+Room4: P16, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 3: P17, 
+Priority 0: P6, P8, P13, P14, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P11, P12, 
+
+Room1: available
+Room2: P10, D2
+Room3: P15, D3
+Room4: P16, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P17, 
+Priority 0: P6, P8, P13, P14, P18, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P11, P12, P10, 
+
+Room1: P17, N2
+Room2: available
+Room3: P15, D3
+Room4: P16, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 2: P19, 
+Priority 0: P6, P8, P13, P14, P18, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+P12, P10, 
+
+Room1: P17, N2
+Room2: P19, N1
+Room3: P15, D3
+Room4: P16, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 1: P20, 
+Priority 0: P6, P8, P13, P14, P18, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+P12, P10, P15, 
+
+Room1: P17, D3
+Room2: P19, N1
+Room3: available
+Room4: P16, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P20, 
+Priority 0: P6, P8, P13, P14, P18, P21, 
+-----------------------------------------------------------------------
+
+AA1: P12
+
+
+Checkout queue: 
+P10, P15, P16, 
+
+Room1: P17, D3
+Room2: P19, D2
+Room3: P20, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, 
+-----------------------------------------------------------------------
+
+AA1: P12
+
+
+Checkout queue: 
+P10, P15, P16, 
+
+Room1: P17, D3
+Room2: P19, D2
+Room3: P20, N2
+Room4: P23, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, 
+-----------------------------------------------------------------------
+
+AA1: P10
+
+
+Checkout queue: 
+P15, P16, P17, 
+
+Room1: available
+Room2: P19, D2
+Room3: P20, D3
+Room4: P23, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, 
+-----------------------------------------------------------------------
+
+AA1: P10
+
+
+Checkout queue: 
+P15, P16, P17, P19, 
+
+Room1: P25, N2
+Room2: available
+Room3: P20, D3
+Room4: P23, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+P16, P17, P19, 
+
+Room1: P25, N2
+Room2: P26, N1
+Room3: P20, D3
+Room4: P23, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+P16, P17, P19, P20, 
+
+Room1: P25, D3
+Room2: P26, N1
+Room3: available
+Room4: P23, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P27, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, 
+-----------------------------------------------------------------------
+
+AA1: P16
+
+
+Checkout queue: 
+P17, P19, P20, P23, 
+
+Room1: P25, D3
+Room2: P26, D2
+Room3: P27, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, 
+-----------------------------------------------------------------------
+
+AA1: P16
+
+
+Checkout queue: 
+P17, P19, P20, P23, 
+
+Room1: P25, D3
+Room2: P26, D2
+Room3: P27, N2
+Room4: P29, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+P19, P20, P23, P25, 
+
+Room1: available
+Room2: P26, D2
+Room3: P27, D3
+Room4: P29, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+P19, P20, P23, P25, P26, 
+
+Room1: P31, N2
+Room2: available
+Room3: P27, D3
+Room4: P29, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, 
+-----------------------------------------------------------------------
+
+AA1: P19
+
+
+Checkout queue: 
+P20, P23, P25, P26, 
+
+Room1: P31, N2
+Room2: P32, N1
+Room3: P27, D3
+Room4: P29, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, 
+-----------------------------------------------------------------------
+
+AA1: P19
+
+
+Checkout queue: 
+P20, P23, P25, P26, P27, 
+
+Room1: P31, D3
+Room2: P32, N1
+Room3: available
+Room4: P29, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, 
+-----------------------------------------------------------------------
+
+AA1: P20
+
+
+Checkout queue: 
+P23, P25, P26, P27, P29, 
+
+Room1: P31, D3
+Room2: P32, D2
+Room3: P34, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, 
+-----------------------------------------------------------------------
+
+AA1: P20
+
+
+Checkout queue: 
+P23, P25, P26, P27, P29, 
+
+Room1: P31, D3
+Room2: P32, D2
+Room3: P34, N2
+Room4: P35, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, 
+-----------------------------------------------------------------------
+
+AA1: P23
+
+
+Checkout queue: 
+P25, P26, P27, P29, P31, 
+
+Room1: available
+Room2: P32, D2
+Room3: P34, D3
+Room4: P35, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P36, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, 
+-----------------------------------------------------------------------
+
+AA1: P23
+
+
+Checkout queue: 
+P25, P26, P27, P29, P31, P32, 
+
+Room1: P36, N2
+Room2: available
+Room3: P34, D3
+Room4: P35, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, 
+-----------------------------------------------------------------------
+
+AA1: P25
+
+
+Checkout queue: 
+P26, P27, P29, P31, P32, 
+
+Room1: P36, N2
+Room2: P38, N1
+Room3: P34, D3
+Room4: P35, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, 
+-----------------------------------------------------------------------
+
+AA1: P25
+
+
+Checkout queue: 
+P26, P27, P29, P31, P32, P34, 
+
+Room1: P36, D3
+Room2: P38, N1
+Room3: available
+Room4: P35, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P39, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, 
+-----------------------------------------------------------------------
+
+AA1: P26
+
+
+Checkout queue: 
+P27, P29, P31, P32, P34, P35, 
+
+Room1: P36, D3
+Room2: P38, D2
+Room3: P39, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 3: P40, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, 
+-----------------------------------------------------------------------
+
+AA1: P26
+
+
+Checkout queue: 
+P27, P29, P31, P32, P34, P35, 
+
+Room1: P36, D3
+Room2: P38, D2
+Room3: P39, N2
+Room4: P40, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 2: P41, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, 
+-----------------------------------------------------------------------
+
+AA1: P27
+
+
+Checkout queue: 
+P29, P31, P32, P34, P35, P36, 
+
+Room1: available
+Room2: P38, D2
+Room3: P39, D3
+Room4: P40, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P41, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, 
+-----------------------------------------------------------------------
+
+AA1: P27
+
+
+Checkout queue: 
+P29, P31, P32, P34, P35, P36, P38, 
+
+Room1: P41, N2
+Room2: available
+Room3: P39, D3
+Room4: P40, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 2: P43, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, 
+-----------------------------------------------------------------------
+
+AA1: P29
+
+
+Checkout queue: 
+P31, P32, P34, P35, P36, P38, 
+
+Room1: P41, N2
+Room2: P44, N1
+Room3: P39, D3
+Room4: P40, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 2: P43, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, 
+-----------------------------------------------------------------------
+
+AA1: P29
+
+
+Checkout queue: 
+P31, P32, P34, P35, P36, P38, P39, 
+
+Room1: P41, D3
+Room2: P44, N1
+Room3: available
+Room4: P40, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P45, 
+Priority 2: P43, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, 
+-----------------------------------------------------------------------
+
+AA1: P31
+
+
+Checkout queue: 
+P32, P34, P35, P36, P38, P39, P40, 
+
+Room1: P41, D3
+Room2: P44, D2
+Room3: P45, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 3: P46, 
+Priority 2: P43, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, 
+-----------------------------------------------------------------------
+
+AA1: P31
+
+
+Checkout queue: 
+P32, P34, P35, P36, P38, P39, P40, 
+
+Room1: P41, D3
+Room2: P44, D2
+Room3: P45, N2
+Room4: P46, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 2: P43, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, 
+-----------------------------------------------------------------------
+
+AA1: P32
+
+
+Checkout queue: 
+P34, P35, P36, P38, P39, P40, P41, 
+
+Room1: available
+Room2: P44, D2
+Room3: P45, D3
+Room4: P46, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 2: P43, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, 
+-----------------------------------------------------------------------
+
+AA1: P32
+
+
+Checkout queue: 
+P34, P35, P36, P38, P39, P40, P41, P44, 
+
+Room1: P43, N2
+Room2: available
+Room3: P45, D3
+Room4: P46, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 1: P49, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, 
+-----------------------------------------------------------------------
+
+AA1: P34
+
+
+Checkout queue: 
+P35, P36, P38, P39, P40, P41, P44, 
+
+Room1: P43, N2
+Room2: P49, N1
+Room3: P45, D3
+Room4: P46, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, 
+-----------------------------------------------------------------------
+
+AA1: P34
+
+
+Checkout queue: 
+P35, P36, P38, P39, P40, P41, P44, P45, 
+
+Room1: P43, D3
+Room2: P49, N1
+Room3: available
+Room4: P46, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 3: P51, 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, 
+-----------------------------------------------------------------------
+
+AA1: P35
+
+
+Checkout queue: 
+P36, P38, P39, P40, P41, P44, P45, P46, 
+
+Room1: P43, D3
+Room2: P49, D2
+Room3: P51, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P6, P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, 
+-----------------------------------------------------------------------
+
+AA1: P35
+
+
+Checkout queue: 
+P36, P38, P39, P40, P41, P44, P45, P46, 
+
+Room1: P43, D3
+Room2: P49, D2
+Room3: P51, N2
+Room4: P6, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, 
+-----------------------------------------------------------------------
+
+AA1: P36
+
+
+Checkout queue: 
+P38, P39, P40, P41, P44, P45, P46, P43, 
+
+Room1: available
+Room2: P49, D2
+Room3: P51, D3
+Room4: P6, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P8, P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, 
+-----------------------------------------------------------------------
+
+AA1: P36
+
+
+Checkout queue: 
+P38, P39, P40, P41, P44, P45, P46, P43, P49, 
+
+Room1: P8, N2
+Room2: available
+Room3: P51, D3
+Room4: P6, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, 
+-----------------------------------------------------------------------
+
+AA1: P38
+
+
+Checkout queue: 
+P39, P40, P41, P44, P45, P46, P43, P49, 
+
+Room1: P8, N2
+Room2: P56, N1
+Room3: P51, D3
+Room4: P6, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, 
+-----------------------------------------------------------------------
+
+AA1: P38
+
+
+Checkout queue: 
+P39, P40, P41, P44, P45, P46, P43, P49, P51, 
+
+Room1: P8, D3
+Room2: P56, N1
+Room3: available
+Room4: P6, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P13, P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, 
+-----------------------------------------------------------------------
+
+AA1: P39
+
+
+Checkout queue: 
+P40, P41, P44, P45, P46, P43, P49, P51, P6, 
+
+Room1: P8, D3
+Room2: P56, D2
+Room3: P13, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, 
+-----------------------------------------------------------------------
+
+AA1: P39
+
+
+Checkout queue: 
+P40, P41, P44, P45, P46, P43, P49, P51, P6, 
+
+Room1: P8, D3
+Room2: P56, D2
+Room3: P13, N2
+Room4: P59, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, 
+-----------------------------------------------------------------------
+
+AA1: P40
+
+
+Checkout queue: 
+P41, P44, P45, P46, P43, P49, P51, P6, P8, 
+
+Room1: available
+Room2: P56, D2
+Room3: P13, D3
+Room4: P59, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P14, P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, P60, 
+-----------------------------------------------------------------------
+
+AA1: P40
+
+
+Checkout queue: 
+P41, P44, P45, P46, P43, P49, P51, P6, P8, P56, 
+
+Room1: P14, N2
+Room2: available
+Room3: P13, D3
+Room4: P59, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P18, P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, P60, P61, 
+-----------------------------------------------------------------------
+
+AA1: P41
+
+
+Checkout queue: 
+P44, P45, P46, P43, P49, P51, P6, P8, P56, 
+
+Room1: P14, N2
+Room2: P18, N1
+Room3: P13, D3
+Room4: P59, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, P60, P61, P62, 
+-----------------------------------------------------------------------
+
+AA1: P41
+
+
+Checkout queue: 
+P44, P45, P46, P43, P49, P51, P6, P8, P56, P13, 
+
+Room1: P14, D3
+Room2: P18, N1
+Room3: available
+Room4: P59, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, P60, P61, P62, P63, 
+-----------------------------------------------------------------------
+
+AA1: P44
+
+
+Checkout queue: 
+P45, P46, P43, P49, P51, P6, P8, P56, P13, P59, 
+
+Room1: P14, D3
+Room2: P18, D2
+Room3: P64, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, P60, P61, P62, P63, 
+-----------------------------------------------------------------------
+
+AA1: P44
+
+
+Checkout queue: 
+P45, P46, P43, P49, P51, P6, P8, P56, P13, P59, 
+
+Room1: P14, D3
+Room2: P18, D2
+Room3: P64, N2
+Room4: P65, N1
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, P60, P61, P62, P63, 
+-----------------------------------------------------------------------
+
+AA1: P45
+
+
+Checkout queue: 
+P46, P43, P49, P51, P6, P8, P56, P13, P59, P14, 
+
+Room1: available
+Room2: P18, D2
+Room3: P64, D3
+Room4: P65, N1
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 1: P66, 
+Priority 0: P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, P60, P61, P62, P63, 
+-----------------------------------------------------------------------
+
+AA1: P45
+
+
+Checkout queue: 
+P46, P43, P49, P51, P6, P8, P56, P13, P59, P14, P18, 
+
+Room1: P66, N2
+Room2: available
+Room3: P64, D3
+Room4: P65, D2
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P21, P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, P60, P61, P62, P63, P67, 
+-----------------------------------------------------------------------
+
+AA1: P46
+
+
+Checkout queue: 
+P43, P49, P51, P6, P8, P56, P13, P59, P14, P18, 
+
+Room1: P66, N2
+Room2: P21, N1
+Room3: P64, D3
+Room4: P65, D2
+
+D1: available
+
+
+Waitroom priority queue: 
+Priority 0: P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, P60, P61, P62, P63, P67, P68, 
+-----------------------------------------------------------------------
+
+AA1: P46
+
+
+Checkout queue: 
+P43, P49, P51, P6, P8, P56, P13, P59, P14, P18, P64, 
+
+Room1: P66, D3
+Room2: P21, N1
+Room3: available
+Room4: P65, D2
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 0: P22, P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, P60, P61, P62, P63, P67, P68, P69, 
+-----------------------------------------------------------------------
+
+AA1: P43
+
+
+Checkout queue: 
+P49, P51, P6, P8, P56, P13, P59, P14, P18, P64, P65, 
+
+Room1: P66, D3
+Room2: P21, D2
+Room3: P22, N2
+Room4: available
+
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 0: P24, P28, P30, P33, P37, P42, P47, P48, P50, P52, P53, P54, P55, P57, P58, P60, P61, P62, P63, P67, P68, P69, P70, 
+-----------------------------------------------------------------------
+
+Total patients served: 32
+Average wait: 0.8125 seconds
+
+Total time for resources: 
+N2: 47 seconds
+N1: 46 seconds
+
+D2: 67 seconds
+D3: 68 seconds
+D1: 0 seconds
+
+AA1: 2 seconds
+
+Room1: 59 seconds
+Room2: 58 seconds
+Room3: 56 seconds
+Room4: 55 seconds
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N3
+Room2: available
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N3
+Room2: P2, N2
+Room3: available
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N3
+Room2: P2, N2
+Room3: P3, N1
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, N3
+Room2: P2, N2
+Room3: P3, N1
+Room4: available
+
+D3: available
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+Priority 168: P4, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, N2
+Room3: P3, N1
+Room4: available
+
+D2: available
+D1: available
+
+N3: available
+
+Waitroom priority queue: 
+Priority 168: P4, 
+Priority 0: P5, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, N1
+Room4: P4, N3
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 168: P6, 
+Priority 0: P5, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, D1
+Room4: P4, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 168: P6, 
+Priority 0: P5, P7, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, D1
+Room4: P4, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 168: P6, P8, 
+Priority 0: P5, P7, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P1, D3
+Room2: P2, D2
+Room3: P3, D1
+Room4: P4, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P9, 
+Priority 168: P6, P8, 
+Priority 0: P5, P7, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P2, D2
+Room3: P3, D1
+Room4: P4, D3
+
+
+N3: available
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P9, 
+Priority 168: P6, P8, 
+Priority 0: P5, P7, P10, 
+-----------------------------------------------------------------------
+
+AA1: P1
+
+
+Checkout queue: 
+P2, 
+
+Room1: P11, N3
+Room2: available
+Room3: P3, D1
+Room4: P4, D3
+
+D2: available
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P9, 
+Priority 168: P6, P8, 
+Priority 0: P5, P7, P10, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+P3, 
+
+Room1: P11, N3
+Room2: P9, N1
+Room3: available
+Room4: P4, D3
+
+D1: available
+D2: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 168: P6, P8, 
+Priority 0: P5, P7, P10, P12, 
+-----------------------------------------------------------------------
+
+AA1: P2
+
+
+Checkout queue: 
+P3, 
+
+Room1: P11, N3
+Room2: P9, N1
+Room3: P6, N2
+Room4: P4, D3
+
+D1: available
+D2: available
+
+
+Waitroom priority queue: 
+Priority 168: P8, 
+Priority 0: P5, P7, P10, P12, P13, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+
+
+Room1: P11, N3
+Room2: P9, N1
+Room3: P6, N2
+Room4: P4, D3
+
+D1: available
+D2: available
+
+
+Waitroom priority queue: 
+Priority 168: P8, P14, 
+Priority 0: P5, P7, P10, P12, P13, 
+-----------------------------------------------------------------------
+
+AA1: P3
+
+
+Checkout queue: 
+P4, 
+
+Room1: P11, D3
+Room2: P9, N1
+Room3: P6, N2
+Room4: available
+
+D1: available
+D2: available
+
+N3: available
+
+Waitroom priority queue: 
+Priority 169: P15, 
+Priority 168: P8, P14, 
+Priority 0: P5, P7, P10, P12, P13, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+
+
+Room1: P11, D3
+Room2: P9, D1
+Room3: P6, N2
+Room4: P15, N3
+
+D2: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P16, 
+Priority 168: P8, P14, 
+Priority 0: P5, P7, P10, P12, P13, 
+-----------------------------------------------------------------------
+
+AA1: P4
+
+
+Checkout queue: 
+
+
+Room1: P11, D3
+Room2: P9, D1
+Room3: P6, D2
+Room4: P15, N3
+
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P16, P17, 
+Priority 168: P8, P14, 
+Priority 0: P5, P7, P10, P12, P13, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P11, D3
+Room2: P9, D1
+Room3: P6, D2
+Room4: P15, N3
+
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P16, P17, 
+Priority 168: P8, P14, P18, 
+Priority 0: P5, P7, P10, P12, P13, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P11, D3
+Room2: P9, D1
+Room3: P6, D2
+Room4: P15, N3
+
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P16, P17, P19, 
+Priority 168: P8, P14, P18, 
+Priority 0: P5, P7, P10, P12, P13, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P9, D1
+Room3: P6, D2
+Room4: P15, D3
+
+
+N3: available
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 170: P20, 
+Priority 169: P16, P17, P19, 
+Priority 168: P8, P14, P18, 
+Priority 0: P5, P7, P10, P12, P13, 
+-----------------------------------------------------------------------
+
+AA1: P11
+
+
+Checkout queue: 
+P9, 
+
+Room1: P20, N3
+Room2: available
+Room3: P6, D2
+Room4: P15, D3
+
+D1: available
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P16, P17, P19, 
+Priority 168: P8, P14, P18, 
+Priority 0: P5, P7, P10, P12, P13, P21, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P6, 
+
+Room1: P20, N3
+Room2: P16, N2
+Room3: available
+Room4: P15, D3
+
+D2: available
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P17, P19, 
+Priority 168: P8, P14, P18, P22, 
+Priority 0: P5, P7, P10, P12, P13, P21, 
+-----------------------------------------------------------------------
+
+AA1: P9
+
+
+Checkout queue: 
+P6, 
+
+Room1: P20, N3
+Room2: P16, N2
+Room3: P17, N1
+Room4: P15, D3
+
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, 
+Priority 0: P5, P7, P10, P12, P13, P21, 
+-----------------------------------------------------------------------
+
+AA1: P6
+
+
+Checkout queue: 
+
+
+Room1: P20, N3
+Room2: P16, N2
+Room3: P17, N1
+Room4: P15, D3
+
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, 
+-----------------------------------------------------------------------
+
+AA1: P6
+
+
+Checkout queue: 
+P15, 
+
+Room1: P20, D3
+Room2: P16, N2
+Room3: P17, N1
+Room4: available
+
+D2: available
+D1: available
+
+N3: available
+
+Waitroom priority queue: 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+
+
+Room1: P20, D3
+Room2: P16, D2
+Room3: P17, N1
+Room4: P26, N3
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, 
+-----------------------------------------------------------------------
+
+AA1: P15
+
+
+Checkout queue: 
+
+
+Room1: P20, D3
+Room2: P16, D2
+Room3: P17, D1
+Room4: P26, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P20, D3
+Room2: P16, D2
+Room3: P17, D1
+Room4: P26, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 170: P28, 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P20, D3
+Room2: P16, D2
+Room3: P17, D1
+Room4: P26, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 170: P28, P29, 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, 
+-----------------------------------------------------------------------
+
+AA1: P20
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P16, D2
+Room3: P17, D1
+Room4: P26, D3
+
+
+N3: available
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 170: P28, P29, P30, 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, 
+-----------------------------------------------------------------------
+
+AA1: P20
+
+
+Checkout queue: 
+P16, 
+
+Room1: P28, N3
+Room2: available
+Room3: P17, D1
+Room4: P26, D3
+
+D2: available
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 170: P29, P30, 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, P31, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, 
+-----------------------------------------------------------------------
+
+AA1: P16
+
+
+Checkout queue: 
+P17, 
+
+Room1: P28, N3
+Room2: P29, N1
+Room3: available
+Room4: P26, D3
+
+D1: available
+D2: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 170: P30, 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, P31, P32, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, 
+-----------------------------------------------------------------------
+
+AA1: P16
+
+
+Checkout queue: 
+P17, 
+
+Room1: P28, N3
+Room2: P29, N1
+Room3: P30, N2
+Room4: P26, D3
+
+D1: available
+D2: available
+
+
+Waitroom priority queue: 
+Priority 170: P33, 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, P31, P32, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+
+
+Room1: P28, N3
+Room2: P29, N1
+Room3: P30, N2
+Room4: P26, D3
+
+D1: available
+D2: available
+
+
+Waitroom priority queue: 
+Priority 170: P33, 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, P31, P32, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, 
+-----------------------------------------------------------------------
+
+AA1: P17
+
+
+Checkout queue: 
+P26, 
+
+Room1: P28, D3
+Room2: P29, N1
+Room3: P30, N2
+Room4: available
+
+D1: available
+D2: available
+
+N3: available
+
+Waitroom priority queue: 
+Priority 170: P33, 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, P31, P32, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, 
+-----------------------------------------------------------------------
+
+AA1: P26
+
+
+Checkout queue: 
+
+
+Room1: P28, D3
+Room2: P29, D1
+Room3: P30, N2
+Room4: P33, N3
+
+D2: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, P31, P32, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, 
+-----------------------------------------------------------------------
+
+AA1: P26
+
+
+Checkout queue: 
+
+
+Room1: P28, D3
+Room2: P29, D1
+Room3: P30, D2
+Room4: P33, N3
+
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P19, P23, 
+Priority 168: P8, P14, P18, P22, P31, P32, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P28, D3
+Room2: P29, D1
+Room3: P30, D2
+Room4: P33, N3
+
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P19, P23, P38, 
+Priority 168: P8, P14, P18, P22, P31, P32, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P28, D3
+Room2: P29, D1
+Room3: P30, D2
+Room4: P33, N3
+
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P19, P23, P38, 
+Priority 168: P8, P14, P18, P22, P31, P32, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, 
+-----------------------------------------------------------------------
+
+AA1: P28
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P29, D1
+Room3: P30, D2
+Room4: P33, D3
+
+
+N3: available
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P19, P23, P38, 
+Priority 168: P8, P14, P18, P22, P31, P32, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, 
+-----------------------------------------------------------------------
+
+AA1: P28
+
+
+Checkout queue: 
+P29, 
+
+Room1: P41, N3
+Room2: available
+Room3: P30, D2
+Room4: P33, D3
+
+D1: available
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P19, P23, P38, 
+Priority 168: P8, P14, P18, P22, P31, P32, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, 
+-----------------------------------------------------------------------
+
+AA1: P29
+
+
+Checkout queue: 
+P30, 
+
+Room1: P41, N3
+Room2: P19, N2
+Room3: available
+Room4: P33, D3
+
+D2: available
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P23, P38, 
+Priority 168: P8, P14, P18, P22, P31, P32, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, 
+-----------------------------------------------------------------------
+
+AA1: P29
+
+
+Checkout queue: 
+P30, 
+
+Room1: P41, N3
+Room2: P19, N2
+Room3: P23, N1
+Room4: P33, D3
+
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+Priority 169: P38, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, 
+-----------------------------------------------------------------------
+
+AA1: P30
+
+
+Checkout queue: 
+
+
+Room1: P41, N3
+Room2: P19, N2
+Room3: P23, N1
+Room4: P33, D3
+
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+Priority 170: P44, 
+Priority 169: P38, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, 
+-----------------------------------------------------------------------
+
+AA1: P30
+
+
+Checkout queue: 
+P33, 
+
+Room1: P41, D3
+Room2: P19, N2
+Room3: P23, N1
+Room4: available
+
+D2: available
+D1: available
+
+N3: available
+
+Waitroom priority queue: 
+Priority 170: P44, 
+Priority 169: P38, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, 
+-----------------------------------------------------------------------
+
+AA1: P33
+
+
+Checkout queue: 
+
+
+Room1: P41, D3
+Room2: P19, D2
+Room3: P23, N1
+Room4: P44, N3
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P38, P46, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, 
+-----------------------------------------------------------------------
+
+AA1: P33
+
+
+Checkout queue: 
+
+
+Room1: P41, D3
+Room2: P19, D2
+Room3: P23, D1
+Room4: P44, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P38, P46, P47, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P41, D3
+Room2: P19, D2
+Room3: P23, D1
+Room4: P44, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P38, P46, P47, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P41, D3
+Room2: P19, D2
+Room3: P23, D1
+Room4: P44, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P38, P46, P47, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, 
+-----------------------------------------------------------------------
+
+AA1: P41
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P19, D2
+Room3: P23, D1
+Room4: P44, D3
+
+
+N3: available
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P38, P46, P47, P50, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, 
+-----------------------------------------------------------------------
+
+AA1: P41
+
+
+Checkout queue: 
+P19, 
+
+Room1: P51, N3
+Room2: available
+Room3: P23, D1
+Room4: P44, D3
+
+D2: available
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P38, P46, P47, P50, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, 
+-----------------------------------------------------------------------
+
+AA1: P19
+
+
+Checkout queue: 
+P23, 
+
+Room1: P51, N3
+Room2: P38, N1
+Room3: available
+Room4: P44, D3
+
+D1: available
+D2: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P46, P47, P50, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, 
+-----------------------------------------------------------------------
+
+AA1: P19
+
+
+Checkout queue: 
+P23, 
+
+Room1: P51, N3
+Room2: P38, N1
+Room3: P46, N2
+Room4: P44, D3
+
+D1: available
+D2: available
+
+
+Waitroom priority queue: 
+Priority 169: P47, P50, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, 
+-----------------------------------------------------------------------
+
+AA1: P23
+
+
+Checkout queue: 
+
+
+Room1: P51, N3
+Room2: P38, N1
+Room3: P46, N2
+Room4: P44, D3
+
+D1: available
+D2: available
+
+
+Waitroom priority queue: 
+Priority 169: P47, P50, P54, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, 
+-----------------------------------------------------------------------
+
+AA1: P23
+
+
+Checkout queue: 
+P44, 
+
+Room1: P51, D3
+Room2: P38, N1
+Room3: P46, N2
+Room4: available
+
+D1: available
+D2: available
+
+N3: available
+
+Waitroom priority queue: 
+Priority 170: P55, 
+Priority 169: P47, P50, P54, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, 
+-----------------------------------------------------------------------
+
+AA1: P44
+
+
+Checkout queue: 
+
+
+Room1: P51, D3
+Room2: P38, D1
+Room3: P46, N2
+Room4: P55, N3
+
+D2: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P47, P50, P54, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, 
+-----------------------------------------------------------------------
+
+AA1: P44
+
+
+Checkout queue: 
+
+
+Room1: P51, D3
+Room2: P38, D1
+Room3: P46, D2
+Room4: P55, N3
+
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P47, P50, P54, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P51, D3
+Room2: P38, D1
+Room3: P46, D2
+Room4: P55, N3
+
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P47, P50, P54, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P51, D3
+Room2: P38, D1
+Room3: P46, D2
+Room4: P55, N3
+
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P47, P50, P54, P59, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, 
+-----------------------------------------------------------------------
+
+AA1: P51
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P38, D1
+Room3: P46, D2
+Room4: P55, D3
+
+
+N3: available
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P47, P50, P54, P59, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, P60, 
+-----------------------------------------------------------------------
+
+AA1: P51
+
+
+Checkout queue: 
+P38, 
+
+Room1: P47, N3
+Room2: available
+Room3: P46, D2
+Room4: P55, D3
+
+D1: available
+
+N2: available
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P50, P54, P59, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, P61, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, P60, 
+-----------------------------------------------------------------------
+
+AA1: P38
+
+
+Checkout queue: 
+P46, 
+
+Room1: P47, N3
+Room2: P50, N2
+Room3: available
+Room4: P55, D3
+
+D2: available
+D1: available
+
+N1: available
+
+Waitroom priority queue: 
+Priority 169: P54, P59, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, P61, P62, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, P60, 
+-----------------------------------------------------------------------
+
+AA1: P38
+
+
+Checkout queue: 
+P46, 
+
+Room1: P47, N3
+Room2: P50, N2
+Room3: P63, N1
+Room4: P55, D3
+
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+Priority 169: P54, P59, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, P61, P62, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, P60, 
+-----------------------------------------------------------------------
+
+AA1: P46
+
+
+Checkout queue: 
+
+
+Room1: P47, N3
+Room2: P50, N2
+Room3: P63, N1
+Room4: P55, D3
+
+D2: available
+D1: available
+
+
+Waitroom priority queue: 
+Priority 169: P54, P59, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, P61, P62, P64, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, P60, 
+-----------------------------------------------------------------------
+
+AA1: P46
+
+
+Checkout queue: 
+P55, 
+
+Room1: P47, D3
+Room2: P50, N2
+Room3: P63, N1
+Room4: available
+
+D2: available
+D1: available
+
+N3: available
+
+Waitroom priority queue: 
+Priority 170: P65, 
+Priority 169: P54, P59, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, P61, P62, P64, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, P60, 
+-----------------------------------------------------------------------
+
+AA1: P55
+
+
+Checkout queue: 
+
+
+Room1: P47, D3
+Room2: P50, D2
+Room3: P63, N1
+Room4: P65, N3
+
+D1: available
+
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P54, P59, P66, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, P61, P62, P64, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, P60, 
+-----------------------------------------------------------------------
+
+AA1: P55
+
+
+Checkout queue: 
+
+
+Room1: P47, D3
+Room2: P50, D2
+Room3: P63, D1
+Room4: P65, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P54, P59, P66, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, P61, P62, P64, P67, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, P60, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P47, D3
+Room2: P50, D2
+Room3: P63, D1
+Room4: P65, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P54, P59, P66, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, P61, P62, P64, P67, P68, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, P60, 
+-----------------------------------------------------------------------
+
+
+AA1: available
+
+Checkout queue: 
+
+
+Room1: P47, D3
+Room2: P50, D2
+Room3: P63, D1
+Room4: P65, N3
+
+
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P54, P59, P66, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, P61, P62, P64, P67, P68, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, P60, P69, 
+-----------------------------------------------------------------------
+
+AA1: P47
+
+
+Checkout queue: 
+
+
+Room1: available
+Room2: P50, D2
+Room3: P63, D1
+Room4: P65, D3
+
+
+N3: available
+N1: available
+N2: available
+
+Waitroom priority queue: 
+Priority 169: P54, P59, P66, P70, 
+Priority 168: P8, P14, P18, P22, P31, P32, P43, P45, P48, P49, P53, P56, P58, P61, P62, P64, P67, P68, 
+Priority 0: P5, P7, P10, P12, P13, P21, P24, P25, P27, P34, P35, P36, P37, P39, P40, P42, P52, P57, P60, P69, 
+-----------------------------------------------------------------------
+
+Total patients served: 24
+Average wait: 4.375 seconds
+
+Total time for resources: 
+N3: 56 seconds
+N1: 28 seconds
+N2: 28 seconds
+
+D3: 66 seconds
+D1: 34 seconds
+D2: 35 seconds
+
+AA1: 2 seconds
+
+Room1: 63 seconds
+Room2: 63 seconds
+Room3: 62 seconds
+Room4: 59 seconds
+
